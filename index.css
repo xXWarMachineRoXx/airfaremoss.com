@@ -1,0 +1,28 @@
+.gmd {
+    background: #ffeb3b !important;
+    padding: 2px 7px;
+    border-radius: 4px;
+    font-weight: 700;
+    color: #4a6b7b;
+}
+.custom_underline{
+    text-underline-offset: 6px;
+}
+.card {
+    border: none;
+    background: rgba(0,34,235,66%);
+    color: white;
+    
+}
+.txt01c, .txt02c b {
+    color: #fffa4d;
+    font-weight: 700;
+}
+.vr{
+    align-items: center;
+    background: white;
+
+}
+.cls-1 {
+    fill: white;
+  }
