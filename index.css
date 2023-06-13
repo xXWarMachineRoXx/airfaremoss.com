@@ -5,27 +5,33 @@
   font-weight: 700;
   color: #4a6b7b;
 }
+.container {
+  position: relative;
+}
 .custom_underline{
   text-underline-offset: 6px;
 }
 .card {
+  position: relative;
   border: none;
-  background: rgba(10, 25, 110, 0.671);
+  background: #243257;
   color: white;
   height: 5rem;
+  border-radius: 1.2em;
 }
 .txt01c, .txt02c b {
-  color: #fffa4d;
+  color:  #FFDE59;
   font-weight: 700;
+  top: 100%;
 }
-.vr{
+.vr {
   position: absolute;
-  right: 43%;
-  top: 3.75em;
+  right: 50%; 
+  top: calc(50% - 1.8em); 
   height: 3.6em;
-  border-radius: 4em;
-  background: rgba(255, 200, 0, 1) !important;
-
+  border-radius: 4%;
+  z-index: 1000;
+  background: #ffbd59!important;
 }
 .cls-1 {
   fill: white;
@@ -48,18 +54,19 @@
   z-index: -1;
   content: '';
   display: block;
-  border: 0.5em solid rgb(252, 211, 77);
+  border: 0.5em solid #ffbb60;
 }
 .ribbon span {
   position: absolute;
   display: block;
   width: 250px;
-  padding: 12px 0;
-  background-color: rgb(252, 211, 77);
+  padding: 0px 0;
+  background-color: #ffbb60;
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
-  color: rgba(10, 25, 110, 0.671);
-  font: 700 18px/1 'Lato', sans-serif;
-  font-size: 10px;
+  color: #243257;
+  font: 700 18px/3.2;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 14.3px;
   text-shadow: 0 1px 1px rgba(0,0,0,.2);
   text-transform: uppercase;
   text-align: center;
@@ -78,15 +85,15 @@
 }
 .ribbon-top-left::before {
   top: 0;
-  right: 59.8;
+  right: 58.8;
 }
 .ribbon-top-left::after {
-  bottom: 59.8;
+  bottom: 58.8;
   left: 0;
   
 }
 .ribbon-top-left span {
-  right: -2.3em;
+  right: -2.9em;
   top: 0em;
   transform: rotate(-45deg);
 }
