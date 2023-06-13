@@ -1,28 +1,92 @@
 .gmd {
-    background: #ffeb3b !important;
-    padding: 2px 7px;
-    border-radius: 4px;
-    font-weight: 700;
-    color: #4a6b7b;
+  background: #ffeb3b !important;
+  padding: 2em 7em;
+  border-radius: 4em;
+  font-weight: 700;
+  color: #4a6b7b;
 }
 .custom_underline{
-    text-underline-offset: 6px;
+  text-underline-offset: 6px;
 }
 .card {
-    border: none;
-    background: rgba(0,34,235,66%);
-    color: white;
-    
+  border: none;
+  background: rgba(10, 25, 110, 0.671);
+  color: white;
+  height: 5rem;
 }
 .txt01c, .txt02c b {
-    color: #fffa4d;
-    font-weight: 700;
+  color: #fffa4d;
+  font-weight: 700;
 }
 .vr{
-    align-items: center;
-    background: white;
+  position: absolute;
+  right: 43%;
+  top: 3.75em;
+  height: 3.6em;
+  border-radius: 4em;
+  background: rgba(255, 200, 0, 1) !important;
 
 }
 .cls-1 {
-    fill: white;
-  }
+  fill: white;
+}
+.whit {
+  fill: white;
+}
+.elemen {
+  width: 75%;
+}
+.ribbon {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  position: absolute;
+}
+.ribbon::before,
+.ribbon::after {
+  position: absolute;
+  z-index: -1;
+  content: '';
+  display: block;
+  border: 0.5em solid rgb(252, 211, 77);
+}
+.ribbon span {
+  position: absolute;
+  display: block;
+  width: 250px;
+  padding: 12px 0;
+  background-color: rgb(252, 211, 77);
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+  color: rgba(10, 25, 110, 0.671);
+  font: 700 18px/1 'Lato', sans-serif;
+  font-size: 10px;
+  text-shadow: 0 1px 1px rgba(0,0,0,.2);
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/* top left*/
+.ribbon-top-left {
+  top: -15px;
+  left: -15px;    
+}
+
+.ribbon-top-left::before,
+.ribbon-top-left::after {
+  border-top-color: transparent;
+  border-left-color: transparent;
+}
+.ribbon-top-left::before {
+  top: 0;
+  right: 59.8;
+}
+.ribbon-top-left::after {
+  bottom: 59.8;
+  left: 0;
+  
+}
+.ribbon-top-left span {
+  right: -2.3em;
+  top: 0em;
+  transform: rotate(-45deg);
+}
