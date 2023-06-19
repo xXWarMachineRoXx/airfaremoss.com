@@ -1,9 +1,9 @@
 <script>
-document.title = "Book Cheap Flight Ticket on British Airways | Get Cheap Flight Deal British Airways - Airfaremoss";       
+document.title = "Book Cheap Flight Ticket on Qatar Airways | Get Cheap Flight Deal Qatar Airways - Airfaremoss";       
 document.getElementsByTagName('meta')["keywords"].content = "";       
 document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Tourcrusier. Get the best fairs With US - call us @ <?= TFN ?>";   
 </script>
-   <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/british-air.jpg'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
+   <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/Qatar-air.png'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
  <?php include 'includes/api-banner.php'; ?>  
 </div>
 <div class="whysky mb-4 mb-md-5">
@@ -149,12 +149,12 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
    <div class="about-spirit-airlines content-wrap mb-4 mb-md-4">
       <div class="container">
          <div class="headingtxt hdadjt">
-            <div class="headh3 txt-ff">British Airways</div>
+            <div class="headh3 txt-ff">Qatar Airways</div>
          </div>
-       <p>You may book inexpensive tickets on British Airways, one of the most affordable carriers, with Airfaremoss. So that you may take a comfortable flight without blowing your holiday budget, we can provide you access to exclusive deals. Be with our travel expert, get <strong>inexpensive flight tickets</strong>, and put an end to your frustration. You may benefit from our year-round accessibility and our special rates for solo, family, group, and business travel. Travel the world on a budget with a Airfaremoss flying package. However, online airline booking implies that the rate does not include any additional operational costs or surcharges.</p>
+       <p>You may book inexpensive tickets on Qatar Airways, one of the most affordable carriers, with Airfaremoss. So that you may take a comfortable flight without blowing your holiday budget, we can provide you access to exclusive deals. Be with our travel expert, get <strong>inexpensive flight tickets</strong>, and put an end to your frustration. You may benefit from our year-round accessibility and our special rates for solo, family, group, and business travel. Travel the world on a budget with a Airfaremoss flying package. However, online airline booking implies that the rate does not include any additional operational costs or surcharges.</p>
 <h3>About</h3>
-<p>We will locate affordable airline fares for you, give you the option to add additional luggage, modify your itinerary, and provide you with a variety of solutions to your trip booking problems. Contact us so that our skilled travel professionals can help you with your concerns. More than 180 sites are served by <strong>British Airways flights</strong>. The United Kingdom's national airline has carried millions of passengers since its establishment. The majority of them select British Airways as their travel companion because it provides exceptional value and a number of advantages to the Oneworld frequent flyer program members.&nbsp;</p>
-<p>By using Airfaremoss to book your British Airways International travel, you might take part in a premium flight experience. Be with us and enjoy cheap flight deals without any hidden clauses. British Airways was established in 1919 and joined the scheduled passenger market in 1974 after a series of profitable aircraft operations. Since then, the airline has made millions of people happy. The company, whose corporate headquarters are in London, is the national carrier of the United Kingdom.</p>
+<p>We will locate affordable airline fares for you, give you the option to add additional luggage, modify your itinerary, and provide you with a variety of solutions to your trip booking problems. Contact us so that our skilled travel professionals can help you with your concerns. More than 180 sites are served by <strong>Qatar Airways flights</strong>. The United Kingdom's national airline has carried millions of passengers since its establishment. The majority of them select Qatar Airways as their travel companion because it provides exceptional value and a number of advantages to the Oneworld frequent flyer program members.&nbsp;</p>
+<p>By using Airfaremoss to book your Qatar Airways International travel, you might take part in a premium flight experience. Be with us and enjoy cheap flight deals without any hidden clauses. Qatar Airways was established in 1919 and joined the scheduled passenger market in 1974 after a series of profitable aircraft operations. Since then, the airline has made millions of people happy. The company, whose corporate headquarters are in London, is the national carrier of the United Kingdom.</p>
 <h3>Destinations</h3>
 <p>Italy, Lithuania, Malta, Norway, Portugal, Romania, Russia, Uruguay, US Virgin Islands, United States, Antigua, Argentina, Aruba, Bahamas, Venezuela, Bahrain, Bangladesh, United Kingdom, Albania, Austria, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Gibraltar, Hungary, Iceland, Algeria, Djibouti, Egypt, Ethiopia, Ghana, Kenya, Mauritius, Mozambique, Namibia, Nigeria, South Africa, Sudan, Tanzania, Zambia, Zimbabwe, Australia, Cambodia, China, Israel, Slovenia, Spain, Sweden, Turkey, and multiple countries.&nbsp;</p>
 
@@ -212,7 +212,7 @@ body{margin-bottom:45.5px} a {color:#343a40;}
 
 
 <script>
-$('.airline-name').text('British Airways');
+$('.airline-name').text('Qatar Airways');
 $('.txt02').text('Flight Deals');
 
 </script>

@@ -347,7 +347,7 @@ if (!function_exists("getMarkAirline")) {
 function get_data($page_name)
 {
     $CI = &get_instance();
-
+    // Query the "header_table" for a row where the "page_name" column matches the provided page name
     $page_nam = $CI->db->get_where("header_table", ["page_name" => '/' . $page_name])->result();
 
     return $page_nam;

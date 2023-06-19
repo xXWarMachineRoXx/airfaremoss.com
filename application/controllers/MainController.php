@@ -514,6 +514,13 @@ public function business_cls_reservation()
         $this->load->view("british-airways");
         $this->load->view("includes/front_footer");
     }
+    public function qatar_airways()
+    {
+        $data = get_data("qatar-airways.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("qatar-airways");
+        $this->load->view("includes/front_footer");
+    }
     
     public function emirates_airlines()
     {
@@ -850,8 +857,7 @@ EOD;
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Ticket:autralia travel</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
 <style>        body {
     background-color: fff;
 }

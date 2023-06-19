@@ -21,7 +21,7 @@
             <div class="row g-3">
             <div class="col-12">
                <div class="flight-status fs-indx bxd">
-<a title="Flight From New York to Orlando" href="<?= base_url() ?>Result?depart=NYC&arrival=ORL&trip=round&page=1&departOn%5B%5D=<?= D_DATE ?>&returnOn=<?= R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=" >
+<a title="Flight From New York to Orlando" href="<?=   base_url() ?>Result?depart=NYC&arrival=ORL&trip=round&page=1&departOn%5B%5D=<?= D_DATE ?>&returnOn=<?= R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=" >
                      <div class="row align-items-center no-gutters">
                         <div class="col-lg-8 col-8">
                           <div class="dd-box">
