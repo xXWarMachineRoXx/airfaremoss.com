@@ -514,6 +514,13 @@ public function business_cls_reservation()
         $this->load->view("british-airways");
         $this->load->view("includes/front_footer");
     }
+    public function canadian_north()
+    {
+        $data = get_data("canadian-north.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("canadian-north");
+        $this->load->view("includes/front_footer");
+    }
     public function qatar_airways()
     {
         $data = get_data("qatar-airways.php")[0];
