@@ -173,8 +173,8 @@
                                         </span>
                                     </div>
                                 </div>
-                                <h5 class="card-title text-white card-font-dynamic"><b>Don't miss out on</b><br></h5>
-                                <h5 class="card-title txt01c card-font-dynamic-title"><b>Unbeatable Flight Deals!</b>
+                                <h5 class="card-title text-white card-font-dynamic">Don't miss out on<br></h5>
+                                <h5 class="card-title txt01c card-font-dynamic-title">Unbeatable Flight Deals!
                                 </h5>
                             </div>
                         </div>
@@ -182,8 +182,8 @@
                         <div class="card">
                             <div class="card-body d-flex flex-column justify-content-center align-items-center"
                                 style="position: relative; top: -11%;">
-                                <h5 class="card-title text-white card-font-dynamic"><b>On every Booking</b><br></h5>
-                                <h5 class="card-title txt01c card-font-dynamic-title"><b>Get Upto 30$ Off</b></h5>
+                                <h5 class="card-title text-white card-font-dynamic">On every Booking<br></h5>
+                                <h5 class="card-title txt01c card-font-dynamic-title">Get Upto 30$ Off</h5>
                             </div>
                         </div>
                     </div>

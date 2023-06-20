@@ -120,6 +120,7 @@ $route['southwest-airlines'] = 'MainController/southwest_airlines';
 $route['front-page'] = 'MainController/front_page';
 $route['disclaimer'] = 'MainController/disclaimer_page';
 $route['british-airways'] = 'MainController/british_airways';
+$route['canadian-north'] = 'MainController/canadian_north';
 $route['qatar-airways'] = 'MainController/qatar_airways';
 
 $route['emirates-airlines'] = 'MainController/emirates_airlines';
