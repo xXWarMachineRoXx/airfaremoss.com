@@ -87,5 +87,5 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
       </div>
    </div>
 </div>
-<style>   #loader {position: absolute;top: 0;bottom: 0%;left: 0;right: 0%;z-index: 10000;display: none;text-align: center;width: 100%;padding-top: 250px;background-color: black;}    #loader img{height:100px; width:100px;}   </style>
+<style> .tfn-bottom-section{display:block !important;}  #loader {position: absolute;top: 0;bottom: 0%;left: 0;right: 0%;z-index: 10000;display: none;text-align: center;width: 100%;padding-top: 250px;background-color: black;}    #loader img{height:100px; width:100px;}   </style>
 </div>
