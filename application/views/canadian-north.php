@@ -3,10 +3,9 @@ document.title = "Book Cheap Flight Ticket on Canadian North | Get Cheap Flight 
 document.getElementsByTagName('meta')["keywords"].content = "";       
 document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Tourcrusier. Get the best fairs With US - call us @ <?= TFN ?>";   
 </script>
-<!-- <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('/airfaremoss.com/frontend/images/canadian-north.png'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;"> -->
-   <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/canadian-north.png'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
-
- <?php include 'includes/api-banner.php'; ?>  
+   <!-- <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/canadian-north.jpg'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;"> -->
+   <div id="header-wrapper" class="wrap-inpg py-4 py-md-5 image " style="background-image: url('/airfaremoss.com/frontend/images/canadian-north.png'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
+   <?php include 'includes/api-banner.php'; ?>  
 </div>
 <div class="whysky mb-4 mb-md-5">
  <?php include 'includes/deals.php'; ?>

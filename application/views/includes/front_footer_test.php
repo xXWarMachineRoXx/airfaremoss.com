@@ -159,7 +159,7 @@
  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
     <a href="tel:<?= TFN ?>" class="tfn-btn clr-opn02 mr-lg-3 d-flex justify-content-between align-items-center">
          <i class="fa fa-phone ffp" aria-hidden="true"></i>
-         <span><small>Call Us for Free Changes & Cheap Flight Booking</small> <?= TFN ?></span>
+         <span><small>Call Us for Free Chaanges & Cheap Flight Booking</small> <?= TFN ?></span>
     </a>
     <a href="tel:<?= TFN ?>" class="tfn-btn clr-opn02 mr-lg-3 d-flex justify-content-between align-items-center btnc2 tfnbtnmbl align-items-center">Call Now</a>
   </div>

@@ -6,7 +6,7 @@ font-family: 'Amaranth', sans-serif;
 font-family: 'Anton', sans-serif;
 */
 
-.dm-alertT button {top: -46px !important;right: -8px !important;}
+.dm-alertT button {top: 7px !important;right: -8px !important;}
 .headingtxt strong {color:#6c757d}
 .headingtxt h3 {font-size: 28px;}
 .wrap-inpg .headingtxt h3 {font-size: 28px;}
@@ -1113,7 +1113,7 @@ box-shadow: none;}
     color: #fff;
     margin-right: 8px;
 }
-.dm-alertT {background: #fff;    box-shadow: 0 0 4px #c5b7b7dd;}
+.dm-alertT {background-color:rgba(255, 255, 255, 0);}
 .dm-alertT span{font-size: 24px;font-weight: 700; line-height:normal;}
 .dm-alertT a{text-decoration:none;}
 
