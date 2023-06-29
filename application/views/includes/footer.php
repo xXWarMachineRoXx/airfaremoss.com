@@ -235,7 +235,7 @@
      <a href="tel:<?= TFN ?>"> 
 <div class="cnt223">
         <div class="popup_title">
-            <h4>Call Us for Free Changes &amp; Cheap Flight Booking <strong>Call Now &amp; Save Big</strong></h4>
+            <h4>Call Us for Free Chaanges &amp; Cheap Flight Booking <strong>Call Now &amp; Save Big</strong></h4>
         </div>
         <div class="row">
 
@@ -255,7 +255,7 @@
    
    <a href="tel:<?= TFN ?>" class="d-flex"> 
    <i class="fa fa-phone ffp" aria-hidden="true"></i> 
-   <div><small>Call Us for Free Changes &amp; Cheap Flight Booking</small> <?= TFN ?></div>
+   <div><small>Call Us for Free Cahanges &amp; Cheap Flight Booking</small> <?= TFN ?></div>
    </a>
   </div>
   </div>

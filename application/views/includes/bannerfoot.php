@@ -120,13 +120,27 @@
         transform: rotate(-45deg);
     }
 }
+@media only screen and (max-width: 578px) {
+  .card-group {
+    flex-wrap: wrap;
+  }
+
+  .card {
+    border-radius: 0;
+  }
+
+  .vr {
+    bottom: 10px;
+  }
+}
+
 </style>
 <div class="container">
         <div class="card-group mt-5">
             <div class="card d-flex flex-column justify-content-center align-items-center">
                 <div class="card-body ">
                     <div class="elemen">
-                        <div class="ribbon ribbon-top-left"><span>SPECIAL
+                        <div class="ribbon ribbon-top-left"><span>SPESAL
                                 OFFER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                         </div>
                     </div>
