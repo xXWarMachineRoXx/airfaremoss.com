@@ -32,7 +32,7 @@ AirFareMoss’s unique hybrid business model bridges the gap between an online t
 		 
   </div>
   <div class="col-12 col-md-6">
-<img src="/airfaremoss.com/frontend/images/about-us-bg.jpg" class="img-fluid" />
+<img src="frontend/images/about-us-bg.jpg" class="img-fluid" />
   </div>
   </div>
   <hr>
