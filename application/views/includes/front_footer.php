@@ -1051,7 +1051,7 @@ function myFunctions() {
    function showModal() {
        $('#exampleModalCenter').modal('show');
    }
-   setTimeout(function () { showModal(); }, 20000);
+   setTimeout(function () { showModal(); }, 10000);
 </script>
 
 <script>
