@@ -140,7 +140,7 @@
             <div class="card d-flex flex-column justify-content-center align-items-center">
                 <div class="card-body ">
                     <div class="elemen">
-                        <div class="ribbon ribbon-top-left"><span>SPESAL
+                        <div class="ribbon ribbon-top-left"><span>Special
                                 OFFER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                         </div>
                     </div>
