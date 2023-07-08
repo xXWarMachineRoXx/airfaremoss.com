@@ -1,5 +1,5 @@
 <script>
-document.title = "Book Cheap Flight Ticket on Lufthansa Airlines | Get Cheap Flight Deal Lufthansa Airlines - Airefaremoss";       
+document.title = "Book Cheap Flight Ticket on Lufthansa Airlines | Get Cheap Flight Deal Lufthansa Airlines - Airfaremoss";       
 document.getElementsByTagName('meta')["keywords"].content = "";       
 document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Tourcrusier. Get the best fairs With US - call us @ <?= TFN ?>";   
 </script>
@@ -151,11 +151,11 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
          <div class="headingtxt hdadjt">
             <div class="headh3 txt-ff">Lufthansa Airlines</div>
          </div>
-        <p>Airefaremoss is the best option for finding <strong>Lufthansa cheap flight tickets</strong>; it is the best option if you need flight booking support 24 hours a day, seven days a week. We provide a variety of payment options so that you may obtain the lowest price based on your unique situation. Booking your flight using our website is an easy process that will save you money and time. Since we are a well-known travel agency, we give excellent customer service. In case you require any additional support or are looking to reserve <strong>cheap flight tickets</strong> over the call then connect us at <?= TFN ?></p>
+        <p>Airfaremoss is the best option for finding <strong>Lufthansa cheap flight tickets</strong>; it is the best option if you need flight booking support 24 hours a day, seven days a week. We provide a variety of payment options so that you may obtain the lowest price based on your unique situation. Booking your flight using our website is an easy process that will save you money and time. Since we are a well-known travel agency, we give excellent customer service. In case you require any additional support or are looking to reserve <strong>cheap flight tickets</strong> over the call then connect us at <?= TFN ?></p>
 <h3>About</h3>
-<p>In 1953, Germany's national airline, Lufthansa, was established. The airline flies millions of passengers throughout the globe each year. In order to satisfy its passengers, the airline offers lounges, free meals, spacious seats, high-end drinks, entertainment options, and a variety of other conveniences. The airline gives passengers plenty of room, even in economy class, on lengthy foreign trips. By booking a Lufthansa flight via Airefaremoss, you can travel in style. Make sure to ask for <strong>cheap flight booking deals</strong> when you speak with our professional travel agents since it allows you to save money without losing service.</p>
+<p>In 1953, Germany's national airline, Lufthansa, was established. The airline flies millions of passengers throughout the globe each year. In order to satisfy its passengers, the airline offers lounges, free meals, spacious seats, high-end drinks, entertainment options, and a variety of other conveniences. The airline gives passengers plenty of room, even in economy class, on lengthy foreign trips. By booking a Lufthansa flight via Airfaremoss, you can travel in style. Make sure to ask for <strong>cheap flight booking deals</strong> when you speak with our professional travel agents since it allows you to save money without losing service.</p>
 <h3>Booking Options</h3>
-<p>All reservation types are accepted by the national carrier of Germany when made via approved channels. You may either use the airline booking process to reserve your preferred seats online or give the Airefaremoss travel experts a call to make a phone reservation. We'll assist you in locating the greatest <strong>undiscovered flight offers</strong> available without making significant compromises to comfort and elegance. When you reserve your family vacation, corporate trip, or group vacation with us, you receive reservation perks. Finding affordable local and international airline tickets is simple. Given that they are constantly accessible to work on your behalf, our travel specialists. Join us to save even more money, and take advantage of our <strong>exclusive unpublished flight deals</strong>.</p>
+<p>All reservation types are accepted by the national carrier of Germany when made via approved channels. You may either use the airline booking process to reserve your preferred seats online or give the Airfaremoss travel experts a call to make a phone reservation. We'll assist you in locating the greatest <strong>undiscovered flight offers</strong> available without making significant compromises to comfort and elegance. When you reserve your family vacation, corporate trip, or group vacation with us, you receive reservation perks. Finding affordable local and international airline tickets is simple. Given that they are constantly accessible to work on your behalf, our travel specialists. Join us to save even more money, and take advantage of our <strong>exclusive unpublished flight deals</strong>.</p>
 <h3>Check-in</h3>
 <p>Lufthansa Airlines accepts check-ins both online and in person. Anyone with access to their preferred platform may quickly complete the check-in procedure. Choose the platform that is most comfortable for you and complete the check-in procedure with ease. Be confident, whenever you require our assistance you can get to us at <?= TFN ?>. Be with us and enjoy incredible deals and prime booking services.</p>
 
@@ -405,7 +405,7 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
 </tr>
 </tbody>
 </table>
-<p>The big draw is being covered by Lufthansa Airlines, so why are you still waiting? Contact Airefaremoss and take advantage of the opportunity to reserve a <strong>cheap flight ticket</strong> to your desired destination.</p>
+<p>The big draw is being covered by Lufthansa Airlines, so why are you still waiting? Contact Airfaremoss and take advantage of the opportunity to reserve a <strong>cheap flight ticket</strong> to your desired destination.</p>
          </div>
          <a class="readmore stmpbtn" href="#">Read more...</a>	      
       </div>
