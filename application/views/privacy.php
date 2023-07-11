@@ -31,15 +31,15 @@ document.title = "Privacy Policy - <?= WEBSITE ?>";
          <!-- Four columns -->
          <div class="row">
              <div class="content-sec tc-section">
-                 <p>Your privacy is important to us, so Airfaremoss, a United States, has created the following Privacy
-                     Policy ("Policy") to let you know what information we collect when you visit our site
-                     <a href="https://www.airfaremoss.com/">https://www.airfaremoss.com/</a> ("Site"), why we collect it and how we use it. The terms "You,"
-                     "Your," "Yours" and "User" refer to the entity/person/organization using our Site. When this Policy
-                     mentions "We", "Us," and "Our" it refers to Airfaremoss and its subsidiaries and affiliates. This
-                     Privacy Policy is governed by our&nbsp;<a href="https://www.airfaremoss.com/terms" data-type="URL"
-                         data-id="https://www.airfaremoss.com/terms">Terms of Services</a>. For any questions regarding
-                     this Policy or any requests regarding the processing of personal data, please contact us at
-                     <a href="mailto:support@airfaremoss.com">support@airfaremoss.com</a>.</p>
+                 <p>We value your privacy and strive to protect your personal information at Airfaremoss, a United
+                     States-based company. This Privacy Policy ("Policy") is designed to provide you with clear and
+                     transparent information about the data we collect when you visit our website at <a
+                         href="https://www.airfaremoss.com/">https://www.airfaremoss.com/</a> ("Site"), why we collect
+                     it, and how we use it. By using our Site, you signify your consent to the terms of this Policy.
+
+                     In the following sections, we outline the specific types of information we may request from you and
+                     explain how we collect and handle such information. We also clarify how we utilize this data to
+                     enhance your experience and provide you with our services.</p>
                  <h2>Information That May Be Requested From You</h2>
                  <p>
                      While using our website, we may collect certain personal details from you. Your discretion to share
