@@ -34,7 +34,7 @@ document.title = "Privacy Policy - <?= WEBSITE ?>";
                  <p>We value your privacy and strive to protect your personal information at Airfaremoss, a United
                      States-based company. This Privacy Policy ("Policy") is designed to provide you with clear and
                      transparent information about the data we collect when you visit our website at <a
-                         href="https://www.airfaremoss.com/">https://www.airfaremoss.com/</a> ("Site"), why we collect
+                         href="https://www.airfaremoss.com/">https://www.airfaremoss.com/</a> , why we collect
                      it, and how we use it. By using our Site, you signify your consent to the terms of this Policy.
 
                      In the following sections, we outline the specific types of information we may request from you and
