@@ -4,30 +4,30 @@ document.getElementsByTagName('meta')["keywords"].content = "";
 document.getElementsByTagName('meta')["description"].content = "Get ready to take off to your next adventure without breaking the bank - book cheap flights with us today.";   
 </script>
    <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/aircanda-flight.jpg'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
- <?php include 'includes/api-banner.php'; ?>  
+ <?php require 'includes/api-banner.php'; ?>  
 </div>
 <div class="whysky mb-4 mb-md-5">
- <?php include 'includes/deals.php'; ?>
+ <?php require 'includes/deals.php'; ?>
 </div> 
    <div class="container mb-4 mb-md-5">
       <div class="flight-list">
-		 <div class="headingtxt mb-3">
-		 <h3 class="headh3 txt-ff"><span>Air Canada</span> Flight Deals <small>(Round Trip)</small> </h3>
-		 <span class="mxw lead text-center center-block txt-ff" data-aos="fade-down"></span>
-		 </div>
+         <div class="headingtxt mb-3">
+         <h3 class="headh3 txt-ff"><span>Air Canada</span> Flight Deals <small>(Round Trip)</small> </h3>
+         <span class="mxw lead text-center center-block txt-ff" data-aos="fade-down"></span>
+         </div>
         <div class="row g-3">
-		<div class="col-md-8 col-12 fdl">
+        <div class="col-md-8 col-12 fdl">
         <div class="row g-3">
            <div class="col-md-6 col-12">
                <div class="flight-status fs-indx bxd">
-<a title="Flight From Saskatoon to Vancouver" href="<?= base_url() ?>Result?depart=YXE&arrival=YVR&trip=round&page=1&departOn%5B%5D=<?= D_DATE ?>&returnOn=<?= R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
+<a title="Flight From Saskatoon to Vancouver" href="<?php echo base_url() ?>Result?depart=YXE&arrival=YVR&trip=round&page=1&departOn%5B%5D=<?php echo D_DATE ?>&returnOn=<?php echo R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
                      <div class="row align-items-center no-gutters">
                         <div class="col-lg-8 col-8">
                           <div class="dd-box">
-							YXE <i class="ti-exchange-vertical"></i> YVR<br>
-							<span>Saskatoon to Vancouver</span>
-							<hr>
-							<span><?= DR_DATE ?></span>
+                            YXE <i class="ti-exchange-vertical"></i> YVR<br>
+                            <span>Saskatoon to Vancouver</span>
+                            <hr>
+                            <span><?php echo DR_DATE ?></span>
                           </div>
                         </div>
                         <div class="col-lg-4 col-4">
@@ -40,14 +40,14 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
             </div>
            <div class="col-md-6 col-12">
                <div class="flight-status fs-indx bxd">
-                  <a title="Flight From Calgary to Victoria" href="<?= base_url() ?>Result?depart=YYC&arrival=YYJ&trip=round&page=1&departOn%5B%5D=<?= D_DATE ?>&returnOn=<?= R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
+                  <a title="Flight From Calgary to Victoria" href="<?php echo base_url() ?>Result?depart=YYC&arrival=YYJ&trip=round&page=1&departOn%5B%5D=<?php echo D_DATE ?>&returnOn=<?php echo R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
                      <div class="row align-items-center no-gutters">
                         <div class="col-lg-8 col-8">
                           <div class="dd-box">
-							YYC <i class="ti-exchange-vertical"></i> YYJ<br>
-							<span>Calgary to Victoria</span>
-							<hr>
-							<span><?= DR_DATE ?></span>
+                            YYC <i class="ti-exchange-vertical"></i> YYJ<br>
+                            <span>Calgary to Victoria</span>
+                            <hr>
+                            <span><?php echo DR_DATE ?></span>
                           </div>
                         </div>
                         <div class="col-lg-4 col-4">
@@ -60,14 +60,14 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
             </div>
            <div class="col-md-6 col-12">
                <div class="flight-status fs-indx bxd">
-                <a title="Flight From Abbotsford to Calgary" href="<?= base_url() ?>Result?depart=YYX&arrival=YYC&trip=round&page=1&departOn%5B%5D=<?= D_DATE ?>&returnOn=<?= R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
+                <a title="Flight From Abbotsford to Calgary" href="<?php echo base_url() ?>Result?depart=YYX&arrival=YYC&trip=round&page=1&departOn%5B%5D=<?php echo D_DATE ?>&returnOn=<?php echo R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
                      <div class="row align-items-center no-gutters">
                         <div class="col-lg-8 col-8">
                           <div class="dd-box">
-							YYX <i class="ti-exchange-vertical"></i> YYC<br>
-							<span>Abbotsford to Calgary</span>
-							<hr>
-							<span><?= DR_DATE ?></span>
+                            YYX <i class="ti-exchange-vertical"></i> YYC<br>
+                            <span>Abbotsford to Calgary</span>
+                            <hr>
+                            <span><?php echo DR_DATE ?></span>
                           </div>
                         </div>
                         <div class="col-lg-4 col-4">
@@ -80,14 +80,14 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
             </div>
            <div class="col-md-6 col-12">
                <div class="flight-status fs-indx bxd">
-                <a title="Flight From Calgary to Abbotsford" href="<?= base_url() ?>Result?depart=YYC&arrival=YYX&trip=round&page=1&departOn%5B%5D=<?= D_DATE ?>&returnOn=<?= R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
+                <a title="Flight From Calgary to Abbotsford" href="<?php echo base_url() ?>Result?depart=YYC&arrival=YYX&trip=round&page=1&departOn%5B%5D=<?php echo D_DATE ?>&returnOn=<?php echo R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
                      <div class="row align-items-center no-gutters">
                         <div class="col-lg-8 col-8">
                           <div class="dd-box">
-							YYC <i class="ti-exchange-vertical"></i> YYX<br>
-							<span>Calgary to Abbotsford</span>
-							<hr>
-							<span><?= DR_DATE ?></span>
+                            YYC <i class="ti-exchange-vertical"></i> YYX<br>
+                            <span>Calgary to Abbotsford</span>
+                            <hr>
+                            <span><?php echo DR_DATE ?></span>
                           </div>
                         </div>
                         <div class="col-lg-4 col-4">
@@ -100,14 +100,14 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
             </div>
            <div class="col-md-6 col-12">
                <div class="flight-status fs-indx bxd">
-                <a title="Flight From Calgary to Ottawa" href="<?= base_url() ?>Result?depart=YYC&arrival=YOW&trip=round&page=1&departOn%5B%5D=<?= D_DATE ?>&returnOn=<?= R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
+                <a title="Flight From Calgary to Ottawa" href="<?php echo base_url() ?>Result?depart=YYC&arrival=YOW&trip=round&page=1&departOn%5B%5D=<?php echo D_DATE ?>&returnOn=<?php echo R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
                      <div class="row align-items-center no-gutters">
                         <div class="col-lg-8 col-8">
                           <div class="dd-box">
-							YYC <i class="ti-exchange-vertical"></i> YOW<br>
-							<span>Calgary to Ottawa</span>
-							<hr>
-							<span><?= DR_DATE ?></span>
+                            YYC <i class="ti-exchange-vertical"></i> YOW<br>
+                            <span>Calgary to Ottawa</span>
+                            <hr>
+                            <span><?php echo DR_DATE ?></span>
                           </div>
                         </div>
                         <div class="col-lg-4 col-4">
@@ -120,14 +120,14 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
             </div>
            <div class="col-md-6 col-12">
                <div class="flight-status fs-indx bxd">
-                  <a title="Flight From Toronto to Calgary" href="<?= base_url() ?>Result?depart=YYZ&arrival=YYC&trip=round&page=1&departOn%5B%5D=<?= D_DATE ?>&returnOn=<?= R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
+                  <a title="Flight From Toronto to Calgary" href="<?php echo base_url() ?>Result?depart=YYZ&arrival=YYC&trip=round&page=1&departOn%5B%5D=<?php echo D_DATE ?>&returnOn=<?php echo R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
                      <div class="row align-items-center no-gutters">
                         <div class="col-lg-8 col-8">
                           <div class="dd-box">
-							YYZ <i class="ti-exchange-vertical"></i> YYC<br>
-							<span>Toronto to Calgary</span>
-							<hr>
-							<span><?= DR_DATE ?></span>
+                            YYZ <i class="ti-exchange-vertical"></i> YYC<br>
+                            <span>Toronto to Calgary</span>
+                            <hr>
+                            <span><?php echo DR_DATE ?></span>
                           </div>
                         </div>
                         <div class="col-lg-4 col-4">
@@ -146,12 +146,12 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
 </div>
 <div class="w-md-50 w-100">
 <b>SAVE BIG</b><br>on <span class="airline-name">Airlines</span> Tickets Booking With Our Travel Experts
-<div class="for-changes"><a href="tel:<?= TFN ?>">
+<div class="for-changes"><a href="tel:<?php echo TFN ?>">
 <span><i class="fa fa-check-circle" aria-hidden="true"></i> Booking</span> 
 <span><i class="fa fa-check-circle" aria-hidden="true"></i> Changes</span>  
 <span><i class="fa fa-check-circle" aria-hidden="true"></i> Cancellation</span>  
 <span><i class="fa fa-check-circle" aria-hidden="true"></i> Assistance</span>
-<strong></strong></a><strong class="text-center"><a href="tel:<?= TFN ?>" class="tfnpay"><i class="fa fa-phone" aria-hidden="true"></i></a><p>(TOLL-FREE)</p></strong>
+<strong></strong></a><strong class="text-center"><a href="tel:<?php echo TFN ?>" class="tfnpay"><i class="fa fa-phone" aria-hidden="true"></i></a><p>(TOLL-FREE)</p></strong>
 </div>
 </div>
 </div>
@@ -190,7 +190,7 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
 <h3>Tourist Attractions in the Air Canada Flights</h3>
 <p>Among the first things which come to mind when thinking of the Air Canada Flights is Hollywood, which is why you must go to Los Angeles. New York is among the world's most prominent centers of art and culture, serving as the inspiration for many songs, films, poetry, and other works. Experience the splendor of the Empire State Building, taste the never-ending rush and activity of Times Square, and wonder at the awe-inspiring Statue of Liberty on Ellis Island by attending a Broadway musical!</p>  
          </div>
-         <a class="readmore stmpbtn" href="#">Read less...</a>	      
+         <a class="readmore stmpbtn" href="#">Read less...</a>          
       </div>
    </div>
   
@@ -203,7 +203,7 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
             <div class="modal-body">
                  <div class="pdl text-center">Book now and save up to $20!</div>
               <div class="afm-offer-card01 p-3">
-               <a href="tel:<?= TFN ?>" class="tfn-url" title="Call Us For Urgent Flights Booking, Changes/Cancellation Or Assistance">
+               <a href="tel:<?php echo TFN ?>" class="tfn-url" title="Call Us For Urgent Flights Booking, Changes/Cancellation Or Assistance">
                   
                   <div class="row align-items-top align-items-center mb-0">
                            <div class="col-md-8 col-9 pl-lg-0">
@@ -212,7 +212,7 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
                            <div class="clearfix"></div>
                            <span class="tcsv">Don't miss out on unbeatable deals.</span>
                            <span class="tcsv tcsv2">Call Now</span>
-                           <div class="tc-tfn tfnp tfn-no"><i class="fa fa-phone" aria-hidden="true"></i> <?= TFN ?></div>
+                           <div class="tc-tfn tfnp tfn-no"><i class="fa fa-phone" aria-hidden="true"></i> <?php echo TFN ?></div>
                         </div>
                      </div>
                      <div class="col-md-4 col-3 offset-sm-1">
