@@ -107,8 +107,8 @@ document.title = "Privacy Policy - <?= WEBSITE ?>";
                  <h2>Feedback, Suggestions, and Comments</h2>
                  <p>
                      We welcome any comments or questions regarding our privacy policy or any other aspect of our
-                     services. Please feel free to contact us via email at <a
-                         href="mailto:info@airfaremoss.com">info@airfaremoss.com</a> for further information.
+                     services. Please feel free to contact us via email at <u><a
+                         href="mailto:info@airfaremoss.com">info@airfaremoss.com</a></u> for further information.
                  </p>
              </div>
          </div>
