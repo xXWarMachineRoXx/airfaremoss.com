@@ -1113,7 +1113,7 @@ box-shadow: none;}
     color: #fff;
     margin-right: 8px;
 }
-.dm-alertT {background-color:rgba(255, 255, 255, 0);}
+.dm-alertT {background-color:rgb(255, 255, 255);}
 .dm-alertT span{font-size: 24px;font-weight: 700; line-height:normal;}
 .dm-alertT a{text-decoration:none;}
 
