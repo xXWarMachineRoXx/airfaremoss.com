@@ -1,11 +1,10 @@
 <script>
-document.title = "Book Cheap Flight Ticket on Canadian North | Get Cheap Flight Deal Canadian North - Airfaremoss";       
+document.title = "Book Cheap Flight Ticket on Norse Airlines | Get Cheap Flight Deal Norse Airlines - Airfaremoss";       
 document.getElementsByTagName('meta')["keywords"].content = "";       
 document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Tourcrusier. Get the best fairs With US - call us @ <?= TFN ?>";   
 </script>
-<div id="header-wrapper" class="wrap-inpg py-4 py-md-5 image " style="background-image: url('/airfaremoss.com/frontend/images/canadian-north.jpg'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
-   <!-- <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/canadian-north.jpg'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;"> -->
-   <!-- <div id="header-wrapper" class="wrap-inpg py-4 py-md-5 image " style="background-image: url('/airfaremoss.com/frontend//airfaremoss.com/frontend/images/canadian-north.png'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;"> -->
+<!-- <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/Norse-Airlines.png'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;"> -->
+<div id="header-wrapper" class="wrap-inpg py-4 py-md-5 image " style="background-image: url('/airfaremoss.com/frontend/images/Norse-Airlines.png'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
    <?php include 'includes/api-banner.php'; ?>  
 </div>
 <div class="whysky mb-4 mb-md-5">
@@ -14,7 +13,7 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
    <div class="container mb-3 mb-md-4">
       <div class="flight-list">
 		 <div class="headingtxt mb-3 text-center">
-		 <h3 class="headh3 txt-ff"><span>Canadian North</span> Flight Deals <small>(Round Trip)</small> </h3>
+		 <h3 class="headh3 txt-ff"><span> Norse Airlines</span> Flight Deals <small>(Round Trip)</small> </h3>
 		 <span class="mxw lead text-center center-block txt-ff" data-aos="fade-down"></span>
 		 </div>
         <div class="row g-3">
@@ -151,34 +150,33 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
    <div class="about-spirit-airlines content-wrap mb-4 mb-md-4">
       <div class="container">
          <div class="headingtxt hdadjt">
-            <div class="headh3 txt-ff">Canadian North</div>
+            <div class="headh3 txt-ff">Norse Airlines</div>
          </div>
-       <p>You may book inexpensive tickets on Canadian North, one of the most affordable carriers, with Airfaremoss. So that you may take a comfortable flight without blowing your holiday budget, we can provide you access to exclusive deals. Be with our travel expert, get <strong>inexpensive flight tickets</strong>, and put an end to your frustration. You may benefit from our year-round accessibility and our special rates for solo, family, group, and business travel. Travel the world on a budget with a Airfaremoss flying package. However, online airline booking implies that the rate does not include any additional operational costs or surcharges.</p>
+       <p>You may book inexpensive tickets on Norse Airlines, one of the most affordable carriers, with Airfaremoss. So that you may take a comfortable flight without blowing your holiday budget, we can provide you access to exclusive deals. Be with our travel expert, get <strong>inexpensive flight tickets</strong>, and put an end to your frustration. You may benefit from our year-round accessibility and our special rates for solo, family, group, and business travel. Travel the world on a budget with a Airfaremoss flying package. However, online airline booking implies that the rate does not include any additional operational costs or surcharges.</p>
 <h3>About</h3>
-<p><strong>Canadian North flights</strong>. serves the cargo and travel needs of more Northern communities than any other air carrier in Canada. Our scheduled service carries over 350,000 passengers and over 25 million kilograms of freight and mail over its vast and comprehensive route system, which connects 25 communities within Nunavut, Nunavik and the Northwest Territories, as well as Southern hubs in Ottawa, Montreal, and Edmonton.&nbsp;</p>
-<p>Canadian North provides booking to destinations beyond our route network through interline agreements and is the premier provider of air charter services for large resource sector clients requiring dependable, efficient and economical fly-in/fly-out charter services.</p>
-<h3>Things to Remember before you fly:</h3><br>
-<h4>Before You Fly</h4>
-<p>All passengers are encouraged to check in at least 2 hours before scheduled departure for flights departing Edmonton (YEG), Yellowknife (YZF), Iqaluit (YFB), Montreal (YUL), Winnipeg (YWG), Ottawa (YOW) and Calgary (YYC).&nbsp;</p>
-<p>Passengers must present themselves at the check-in counter no later than 45 minutes before scheduled departure for flights departing from Edmonton (YEG), Yellowknife (YZF), Iqaluit (YFB), Montreal (YUL), Winnipeg (YWG), Ottawa (YOW) and Calgary (YYC), or 30 minutes before the scheduled departure time of your flight from all other stations.</p>
-<p>It is the responsibility of passengers to ensure that they have allowed extra time to:</p>
+<p><strong>Norse Atlantic Airways</strong>. is a newly established long-haul low-cost airline based in Norway. The airline was founded in 2021 and aims to provide affordable transatlantic flights between Europe and North America. The airways serves 7 US destinations (Boston, New York, Washington, Orlando, Miami, San Francisco and Los Angeles) and is the largest transatlantic operator from London Gatwick Airport.&nbsp;</p>
+<h3>About our fleet</h3>
+<p>The Boeing 787 is one of the most modern, efficient aircraft in the skies. The brand is inspired by the Oseberg longship in Oslo, a symbol of the long-lasting ingenuity of Viking explorers. The Boeing 787 Dreamliners feature a range of innovative technologies that make them more comfortable, greener and quieter, including:&nbsp;</p>
 <ul>
-   <li>Arrive at the airport</li>
-   <li>Present themselves at the check-in counter</li>
-   <li>Complete Government-mandated check-in, security, and boarding procedures. See additional restrictions by region here</li>
-   <li>Clear security</li>
-   <li>Arrive at the boarding gate at least 15 minutes prior to scheduled departure time</li>
+   <li>A more comfortable cabin altitude, with cleaner air and better humidity</li>
+   <li>The largest windows on any jet worldwide, with individual dimmers, to suit your needs throughout the flight.</li>
+   <li>Modern LED lighting gives the feel of natural daylight in the cabin - helping you to arrive relaxed and refreshed.</li>
+   <li>25% lower CO2 emissions and 50% quieter than the previous generation of aircraft still in operation with many major airlines globally</li>
 </ul>
-<p>At check-in and at the boarding gate, passengers must provide Government-issued identification:</p>
-<ul>
-   <li>1 piece of Government-issued photo identification that shows full name and date of birth OR</li>
-   <li>2 pieces of non-photo Government-issued identification; at least one of which shows full name, date of birth, and gender.</li>
-</ul>
+
 <div class="all-content">
-<h4>Weather Conditions</h4>
-<p>Depending on where you are in NWT, Nunavut or Nunavik, the sea ice begins to freeze around September to November and stays frozen until July or August. Winter’s coldest spell comes around January, February, and March, when temperatures can go from daytime highs of -20°C to -30°C or lower. Low humidity reduces the impact of the cold, making a -20° C day feel more like -5°C in Southern Canada. Winds, however, can cause frostbite, so it’s wise to have a parka with a ruff around its hood for wintertime visits. Summer temperatures can range from daytime highs of 10°C up to 30°C.&nbsp;</p>
-<p>Head north above the Arctic Circle and you'll find communities get longer daily stretches of darkness in winter and daylight during summer — those furthest north experience months of never-ending nights in winter, and continual daylight in the summer.</p>
-<p>Up to date weather conditions for all northern communities can be found at The Weather Network.</p>
+<h4>Destinations</h4>
+<p>Find great fares for flights to&nbsp;</p>
+<ul>
+   <li>The United States</li>
+   <li>The United Kingdom</li>
+   <li>Norway</li>
+   <li>Germany</li>
+   <li>France</li>
+   <li>Italy</li>
+   <li>Jamaica</li>
+   <li>Thailand</li>   
+</ul>
 <h3>Booking Method</h3>
 <p>To book a low-cost flight, passengers must go to the Airfaremoss website. Online flight booking saves money since it may be done without paying a service fee. Nobody needs to travel to the airport to reserve a seat. The most convenient option is to book your <strong>affordable flight tickets online</strong>, but you may also arrange your trip by phoning our reservation number. Call us at <?= TFN ?> to book your flight. To take advantage of the new <strong>low-cost airfare</strong> with all-inclusive facilities, please contact us.&nbsp;</p>
 <h3>What distinguishes Airfaremoss as a rare star?</h3>
@@ -232,7 +230,7 @@ body{margin-bottom:45.5px} a {color:#343a40;}
 
 
 <script>
-$('.airline-name').text('Canadian North');
+$('.airline-name').text('Norse Airlines');
 $('.txt02').text('Flight Deals');
 
 </script>

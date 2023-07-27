@@ -29,6 +29,7 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
                <li><a href="<?= base_url() ?>spirit-airlines">Spirit Airlines</a></li>
                <li><a href="<?= base_url() ?>air-canada">Air Canada</a></li>
                <li><a href="<?= base_url() ?>british-airways">British Airways</a></li>
+               <li><a href="<?= base_url() ?>norse-airlines">Norse Airlines</a></li>
                <li><a href="<?= base_url() ?>canadian-north">Canadian North</a></li>
                <li><a href="<?= base_url() ?>qatar-airways">Qatar Airways</a></li>
 
