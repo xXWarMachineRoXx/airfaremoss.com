@@ -514,13 +514,6 @@ public function business_cls_reservation()
         $this->load->view("british-airways");
         $this->load->view("includes/front_footer");
     }
-    public function norse_airlines()
-    {
-        $data = get_data("norse-airlines.php")[0];
-        $this->load->view("includes/front_header", compact("data"));
-        $this->load->view("norse-airlines");
-        $this->load->view("includes/front_footer");
-    }
     public function canadian_north()
     {
         $data = get_data("canadian-north.php")[0];
