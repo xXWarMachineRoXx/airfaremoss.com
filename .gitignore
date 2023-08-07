@@ -93,3 +93,5 @@ user_guide_src/cilexer/dist/*
 user_guide_src/cilexer/pycilexer.egg-info/*
 database*
 application/session/*
+application/config/*
+application/config/database.php
