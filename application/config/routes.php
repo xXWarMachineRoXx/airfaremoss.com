@@ -139,6 +139,15 @@ $route['flights-under-199'] = 'MainController/flights_under_199';
 
 $route['cheap-flight-denver']='MainController/cheap_flight_denver';
 $route['cheap-flight-denver-to-los-angeles']= 'MainController/cheap_flight_denver_to_los_angeles';
+$route['cheap-flight-los-angeles-to-chicago']= 'MainController/cheap_flight_los_angeles_to_chicago';
+$route['cheap-flight-new-york-to-chicago']= 'MainController/cheap_flight_new_york_to_chicago';
+$route['cheap-flight-new-york-to-los-angeles']= 'MainController/cheap_flight_new_york_to_los_angeles';
+$route['cheap-flight-los-angeles-to-settle']= 'MainController/cheap_flight_los_angeles_to_seattle';
+$route['cheap-flight-los-angeles-to-san-francisco']= 'MainController/cheap_flight_los_angeles_to_san_francisco';
+$route['cheap-flight-las-vegas-to-los-angeles']= 'MainController/cheap_flight_las_vegas_to_los_angeles';
+$route['cheap-flight-atlanta-to-orlando']= 'MainController/cheap_flight_atlanta_to_orlando';
+$route['cheap-flight-atlanta-to-new-york']= 'MainController/cheap_flight_atlanta_to_new_york';
+$route['cheap-flight-atlanta-to-ft-lauderdale']= 'MainController/cheap_flight_atlanta_to_ft_lauderdale';
 $route['flight-ticket-new-york']='MainController/flight_ticket_new_york';
 
 

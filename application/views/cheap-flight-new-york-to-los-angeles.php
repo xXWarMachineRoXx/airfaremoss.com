@@ -1,6 +1,9 @@
 <?php
-define('FROM_LOCATION', 'DEN');
+define('FROM_LOCATION', 'NYC');
 define('TO_LOCATION', 'LAX');
+define('full_name_fl', 'New York');
+define('full_name_tl', 'Los Angeles');
+
 // Get the current year, month, and day
 $currentYear = date('Y');
 $currentMonth = date('m');
@@ -40,13 +43,13 @@ if ($currentDay <= $middleDay) {
             <div class="row g-3">
                <div class="col-md-12 col-12">
                   <div class="flight-status fs-indx bxd">
-                     <a title="Flight From Denver to Los Angeles"
+                     <a title="Flight From <?= full_name_fl ?> to <?= full_name_tl ?>"
                         href="<?= base_url() ?>Result?depart=<?= FROM_LOCATION ?>&arrival=<?= TO_LOCATION ?>&trip=round&page=1&departOn%5B%5D=<?= D_DATE ?>&returnOn=<?= R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
                         <div class="row align-items-end no-gutters">
                            <div class="col-lg-9 col-9"> <!-- Modify width setting -->
                               <div class="dd-box">
                               <?= FROM_LOCATION ?> <i class="ti-exchange-vertical"></i> <?= TO_LOCATION ?><br>
-                                 <span>Denver to Los Angeles</span>
+                                 <span><?= full_name_fl ?> to <?= full_name_tl ?></span>
                                  <hr>
                                  <span>
                                     <?= OfferDateRange ?>
@@ -64,13 +67,13 @@ if ($currentDay <= $middleDay) {
                </div>
                <div class="col-md-12 col-12">
                   <div class="flight-status fs-indx bxd">
-                     <a title="Flight From Los Angeles to Denver"
+                     <a title="Flight From <?= full_name_tl ?> to <?= full_name_fl ?>"
                         href="<?= base_url() ?>Result?depart=<?= TO_LOCATION ?>&arrival=<?= FROM_LOCATION ?>&trip=round&page=1&departOn%5B%5D=<?= D_DATE ?>&returnOn=<?= R_DATE ?>&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
                         <div class="row align-items-center no-gutters">
                            <div class="col-lg-9 col-9"> <!-- Modify width setting -->
                               <div class="dd-box">
                               <?= TO_LOCATION ?> <i class="ti-exchange-vertical"></i> <?= FROM_LOCATION ?><br>
-                                 <span>Los Angeles to Denver</span>
+                                 <span><?= full_name_tl ?> to <?= full_name_fl ?></span>
                                  <hr>
                                  <span>
                                     <?= OfferDateRange ?>
@@ -101,22 +104,22 @@ if ($currentDay <= $middleDay) {
    <div class="container">
       <div class="headingtxt hdadjt text-center">
          <div class="headh3 txt-ff fw-bold">Book Flights from
-            <?= FROM_LOCATION ?> to
-            <?= TO_LOCATION ?>
+         <?= full_name_fl ?> to
+         <?= full_name_tl ?>
          </div>
       </div>
 
       <h3 class='fw-bold'>Get Cheap Flights from
-         <?= FROM_LOCATION ?> to
-         <?= TO_LOCATION ?>
+         <?= full_name_fl ?> to
+         <?= full_name_tl ?>
       </h3>
       Experience seamless air travel ticket booking with Airfaremoss. Our Expert Travel agents ensure quick and
          convenient reservations to a multitude of global destinations. Benefit from transparent pricing and incredible
          offers to book your tickets today.
 
       <h3 class='fw-bold'>How to avail the best prices from
-         <?= FROM_LOCATION ?> to
-         <?= TO_LOCATION ?>
+         <?= full_name_fl ?> to
+        <?= full_name_tl ?>
       </h3>
       <ol>
          <li>While last-minute deals can occasionally be found, it's generally advisable to book your flight at least a
@@ -217,7 +220,7 @@ if ($currentDay <= $middleDay) {
 
 
 <script>
-   $('.airline-name').text('Denver to Los Angeles');
+   $('.airline-name').text('<?= full_name_fl ?> to <?= full_name_tl ?>');
    $('.txt02').text('Best Flights ');
 
    $(document).ready(function () {
