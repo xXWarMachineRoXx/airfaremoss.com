@@ -142,8 +142,4 @@ $route['cheap-flight-denver-to-los-angeles']= 'MainController/cheap_flight_denve
 $route['flight-ticket-new-york']='MainController/flight_ticket_new_york';
 
 
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
 $route['flight'] = 'MainController/flights';
