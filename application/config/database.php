@@ -71,26 +71,26 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | the query builder class.
 */
 $active_group = 'default';
-$query_builder = TRUE;
+$query_builder = true;
 
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'faremoss',
- 	'password' => 'faremoss@1234#',
+	'username' => 'root',
+ 	'password' => '',
 	'database' => 'faremoss_db',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
-	'pconnect' => FALSE,
+	'pconnect' => false,
 	'db_debug' => (ENVIRONMENT !== 'production'),
-	'cache_on' => TRUE,
+	'cache_on' => true,
 	'cachedir' => 'application/cache/destination',
 	'char_set' => 'utf8',
 	'dbcollat' => 'utf8_general_ci',
 	'swap_pre' => '',
-	'encrypt' => FALSE,
-	'compress' => TRUE,
-	'stricton' => FALSE,
+	'encrypt' => false,
+	'compress' => true,
+	'stricton' => false,
 	'failover' => array(),
-	'save_queries' => TRUE
+	'save_queries' => true
 );

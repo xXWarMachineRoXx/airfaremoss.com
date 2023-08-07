@@ -68,11 +68,11 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
                <li><a href="<?= base_url() ?>flights-under-199">Flights Under $199</a></li>
             </ul>
          </div>
-         <div class="ftr-sl border rounded p-3 mb-3 d-none">
-            <h5 class="ul-head">Deals</h5>
+         <div class="ftr-sl border rounded p-3 mb-3 ">
+            <h5 class="ul-head">City Pairs</h5>
             <ul>
-               <li><a href="<?= base_url() ?>cheap-flight-tickets">Cheap Flight Tickets</a></li>
-               <li><a href="<?= base_url() ?>flights-to-united-states">Flights to United States</a></li>
+               <li><a href="<?= base_url() ?>cheap-flight-denver-to-los-angeles">Denver to Los Angeles</a></li>
+               <!-- <li><a href="<?= base_url() ?>flights-to-united-states">Flights to United States</a></li> -->
             </ul>
          </div>
          <div class="ftr-sl border rounded p-3">
