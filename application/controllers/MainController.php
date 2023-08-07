@@ -616,12 +616,14 @@ public function business_cls_reservation()
         $this->load->view("includes/front_footer");
     }
     
-    
-   
-    
-   
+    public function cheap_flight_denver_to_los_angeles()
+    {
+        $data = get_data("cheap-flight-denver-to-los-angeles.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-denver-to-los-angeles");
+        $this->load->view("includes/front_footer");
+    }
 
-    
 
     public function session()
     {

@@ -137,7 +137,9 @@ $route['flights-under-69'] = 'MainController/flights_under_69';
 $route['flights-under-99'] = 'MainController/flights_under_99';
 $route['flights-under-199'] = 'MainController/flights_under_199';
 
-
+$route['cheap-flight-denver']='MainController/cheap_flight_denver';
+$route['cheap-flight-denver-to-los-angeles']= 'MainController/cheap_flight_denver_to_los_angeles';
+$route['flight-ticket-new-york']='MainController/flight_ticket_new_york';
 
 
 $route['flight'] = 'MainController/flights';

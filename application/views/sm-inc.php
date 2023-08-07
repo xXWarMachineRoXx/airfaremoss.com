@@ -1,6 +1,6 @@
 <div class="right-side-card p-3" style="background:#f7f7f7 url(/frontend/images/flight-booking01.png) no-repeat left center; background-size:cover;">
 <div class="">
-<b>Need help with a booking?</b><br>on <span class="airline-name">Airlines</span> Tickets Booking With Our Travel Experts
+<b>Need help with a booking?</b><br>On <span class="airline-name">Airlines</span> Tickets Booking With Our Travel Experts
 </div>
 
 <div class="row">
