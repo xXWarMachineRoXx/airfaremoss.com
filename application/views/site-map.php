@@ -72,6 +72,15 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
             <h5 class="ul-head">City Pairs</h5>
             <ul>
                <li><a href="<?= base_url() ?>cheap-flight-denver-to-los-angeles">Denver to Los Angeles</a></li>
+               <li><a href="<?= base_url() ?>cheap-flight-atlanta-to-new-york">Atlanta to New York</a></li>
+               <li><a href="<?= base_url() ?>cheap-flight-atlanta-to-ft-lauderdale">Atlanta to Ft. Lauderdale</a></li>
+               <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-los-angeles">Las Vegas to Los Angeles</a></li>
+               <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-seattle">Los Angeles to Seattle</a></li>
+               <li><a href="<?= base_url() ?>cheap-flight-atlanta-to-orlando">Atlanta to Orlando</a></li>
+               <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-chicago">Los Angles  to Chicago</a></li>
+               <li><a href="<?= base_url() ?>cheap-flight-new-york-to-los-angeles">New York to Los Angeles</a></li>
+               <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-san-francisco">Los Angeles to San Franscisco</a></li>
+
                <!-- <li><a href="<?= base_url() ?>flights-to-united-states">Flights to United States</a></li> -->
             </ul>
          </div>

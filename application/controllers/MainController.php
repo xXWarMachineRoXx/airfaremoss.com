@@ -646,9 +646,9 @@ public function business_cls_reservation()
     }
     public function cheap_flight_los_angeles_to_seattle()
     {
-        $data = get_data("cheap-flight-los-angeles-to-settle.php")[0];
+        $data = get_data("cheap-flight-los-angeles-to-seattle.php")[0];
         $this->load->view("includes/front_header", compact("data"));
-        $this->load->view("cheap-flight-los-angeles-to-settle");
+        $this->load->view("cheap-flight-los-angeles-to-seattle");
         $this->load->view("includes/front_footer");
     }
     public function cheap_flight_atlanta_to_orlando()
