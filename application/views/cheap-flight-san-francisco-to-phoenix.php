@@ -135,9 +135,9 @@ if ($currentDay <= $middleDay) {
          <h3 class='fw-bold'>Booking Method</h3>
          To book a low-cost flight, passengers must go to the Airfaremoss website. Online flight booking saves money
             since it may be done without paying a service fee. Nobody needs to travel to the airport to reserve a seat.
-            The most convenient option is to book your <span class="fw-bold">affordable flight tickets online</span>, but you may
+            The most convenient option is to book your affordable flight tickets online, but you may
             also arrange your trip by phoning our reservation number. Call us at
-            <?= TFN ?> to book your flight. To take advantage of the new <span class='fw-bold'>low-cost airfare</span> with
+            <?= TFN ?> to book your flight. To take advantage of the new low-cost airfare with
             all-inclusive facilities, please contact us.&nbsp;
          
          <h3 class='fw-bold'>What distinguishes Airfaremoss as a rare star?</h3>
@@ -146,7 +146,7 @@ if ($currentDay <= $middleDay) {
             money on plane tickets, as last-minute purchases may incur expensive surcharges. If you are planning a
             family vacation, be sure to let the travel agent know in advance so they can provide you with better
             bargains that will give you a lovely trip with cost-saving values. Be with us and enjoy a hassle-free
-            <span class='fw-bold'>affordable flight journey</span>.
+            affordable flight journey.
          
       </div>
       <a class="readmore stmpbtn" href="#">Read more...</a>
