@@ -138,13 +138,24 @@ $route['flights-under-99'] = 'MainController/flights_under_99';
 $route['flights-under-199'] = 'MainController/flights_under_199';
 
 $route['cheap-flight-denver']='MainController/cheap_flight_denver';
+
 $route['cheap-flight-denver-to-los-angeles']= 'MainController/cheap_flight_denver_to_los_angeles';
 $route['cheap-flight-los-angeles-to-chicago']= 'MainController/cheap_flight_los_angeles_to_chicago';
 $route['cheap-flight-new-york-to-chicago']= 'MainController/cheap_flight_new_york_to_chicago';
 $route['cheap-flight-new-york-to-los-angeles']= 'MainController/cheap_flight_new_york_to_los_angeles';
 $route['cheap-flight-los-angeles-to-seattle']= 'MainController/cheap_flight_los_angeles_to_seattle';
 $route['cheap-flight-los-angeles-to-san-francisco']= 'MainController/cheap_flight_los_angeles_to_san_francisco';
+$route['cheap-flight-las-vegas-to-houston']= 'MainController/cheap_flight_las_vegas_to_houston';
+$route['cheap-flight-las-vegas-to-phoenix']= 'MainController/cheap_flight_las_vegas_to_phoenix';
 $route['cheap-flight-las-vegas-to-los-angeles']= 'MainController/cheap_flight_las_vegas_to_los_angeles';
+$route['cheap-flight-las-vegas-to-newark-liberty-intl']= 'MainController/cheap_flight_las_vegas_to_newark_liberty_intl';
+$route['cheap-flight-las-vegas-to-miami']= 'MainController/cheap_flight_las_vegas_to_miami';
+$route['cheap-flight-las-vegas-to-tampa']= 'MainController/cheap_flight_las_vegas_to_tampa';
+$route['cheap-flight-las-vegas-to-philadelphia']= 'MainController/cheap_flight_las_vegas_to_philadelphia';
+$route['cheap-flight-las-vegas-to-toronto']= 'MainController/cheap_flight_las_vegas_to_toronto';
+$route['cheap-flight-las-vegas-to-denver']= 'MainController/cheap_flight_las_vegas_to_denver';
+$route['cheap-flight-las-vegas-to-atlanta']= 'MainController/cheap_flight_las_vegas_to_atlanta';
+$route['cheap-flight-las-vegas-to-orlando']= 'MainController/cheap_flight_las_vegas_to_orlando';
 $route['cheap-flight-atlanta-to-orlando']= 'MainController/cheap_flight_atlanta_to_orlando';
 $route['cheap-flight-san-francisco-to-orlando']= 'MainController/cheap_flight_san_francisco_to_orlando';
 $route['cheap-flight-san-francisco-to-las-vegas']= 'MainController/cheap_flight_san_francisco_to_las_vegas';

@@ -616,6 +616,76 @@ public function business_cls_reservation()
         $this->load->view("includes/front_footer");
     }
     
+    public function cheap_flight_las_vegas_to_atlanta()
+    {
+        $data = get_data("cheap-flight-las-vegas-to-atlanta.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-las-vegas-to-atlanta");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_las_vegas_to_denver()
+    {
+        $data = get_data("cheap-flight-las-vegas-to-denver.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-las-vegas-to-denver");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_las_vegas_to_houston()
+    {
+        $data = get_data("cheap-flight-las-vegas-to-houston.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-las-vegas-to-houston");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_las_vegas_to_miami()
+    {
+        $data = get_data("cheap-flight-las-vegas-to-miami.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-las-vegas-to-miami");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_las_vegas_to_newark_liberty_intl()
+    {
+        $data = get_data("cheap-flight-las-vegas-to-newark-liberty-intl.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-las-vegas-to-newark-liberty-intl");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_las_vegas_to_orlando()
+    {
+        $data = get_data("cheap-flight-las-vegas-to-orlando.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-las-vegas-to-orlando");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_las_vegas_to_philadelphia()
+    {
+        $data = get_data("cheap-flight-las-vegas-to-philadelphia.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-las-vegas-to-philadelphia");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_las_vegas_to_phoenix()
+    {
+        $data = get_data("cheap-flight-las-vegas-to-phoenix.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-las-vegas-to-phoenix");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_las_vegas_to_tampa()
+    {
+        $data = get_data("cheap-flight-las-vegas-to-tampa.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-las-vegas-to-tampa");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_las_vegas_to_toronto()
+    {
+        $data = get_data("cheap-flight-las-vegas-to-toronto.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-las-vegas-to-toronto");
+        $this->load->view("includes/front_footer");
+    }
     public function cheap_flight_denver_to_los_angeles()
     {
         $data = get_data("cheap-flight-denver-to-los-angeles.php")[0];
