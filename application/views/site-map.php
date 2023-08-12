@@ -99,7 +99,6 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
             <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-raleigh-durham">Las Vegas to Raleigh Durham</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-san-diego">Las Vegas to San Diego</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-tampa">Las Vegas to Tampa</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-tampa">Las Vegas to Tampa</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-toronto">Las Vegas to Toronto</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-chicago">Los Angeles to Chicago</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-seattle">Los Angeles to Seattle</a></li>
