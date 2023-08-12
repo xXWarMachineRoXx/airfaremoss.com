@@ -104,7 +104,6 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
             <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-chicago">Los Angeles to Chicago</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-seattle">Los Angeles to Seattle</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-san-francisco">Los Angeles to San Francisco</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-tampa">Los Angeles to Tampa</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-calgary">San Francisco to Calgary</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-dallas">San Francisco to Dallas</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-denver">San Francisco to Denver</a></li>
@@ -131,7 +130,6 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
             <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-san-diego">Phoenix to San Diego</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-tampa">Phoenix to Tampa</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-toronto">Phoenix to Toronto</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-raleigh-durham-to-las-vegas">Raleigh Durham to Las Vegas</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-san-diego-to-las-vegas">San Diego to Las Vegas</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-san-diego-to-san-francisco">San Diego to San Francisco</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-seattle-to-denver">Seattle to Denver</a></li>
