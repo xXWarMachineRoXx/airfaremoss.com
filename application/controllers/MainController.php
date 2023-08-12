@@ -979,6 +979,20 @@ public function business_cls_reservation()
         $this->load->view("cheap-flight-san-francisco-to-las-vegas");
         $this->load->view("includes/front_footer");
     } 
+    public function cheap_flight_san_diego_to_las_vegas()
+    {
+        $data = get_data("cheap-flight-san-diego-to-las-vegas.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-san-diego-to-las-vegas");
+        $this->load->view("includes/front_footer");
+    } 
+    public function cheap_flight_san_diego_to_san_francisco()
+    {
+        $data = get_data("cheap-flight-san-diego-to-san-francisco.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-san-diego-to-san-francisco");
+        $this->load->view("includes/front_footer");
+    } 
     public function cheap_flight_san_francisco_to_denver()
     {
         $data = get_data("cheap-flight-san-francisco-to-denver.php")[0];

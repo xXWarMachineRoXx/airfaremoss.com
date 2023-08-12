@@ -131,15 +131,6 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
             <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-toronto">Phoenix to Toronto</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-san-diego-to-las-vegas">San Diego to Las Vegas</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-san-diego-to-san-francisco">San Diego to San Francisco</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-seattle-to-denver">Seattle to Denver</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-seattle-to-los-angeles">Seattle to Los Angeles</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-tampa-to-miami">Tampa to Miami</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-tampa-to-orlando">Tampa to Orlando</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-tampa-to-philadelphia">Tampa to Philadelphia</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-tampa-to-san-diego">Tampa to San Diego</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-tampa-to-toronto">Tampa to Toronto</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-toronto-to-philadelphia">Toronto to Philadelphia</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-toronto-to-tampa">Toronto to Tampa</a></li>   
             </ul>
          </div>
          <div class="ftr-sl border rounded p-3">
