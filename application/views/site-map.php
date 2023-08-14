@@ -71,66 +71,66 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
          <div class="ftr-sl border rounded p-3 mb-3 ">
             <h5 class="ul-head">City Pairs</h5>
             <ul>
-            <li><a href="<?= base_url() ?>cheap-flight-atlanta-to-new-york">Atlanta to New York</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-atlanta-to-ft-lauderdale">Atlanta to Ft. Lauderdale</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-atlanta-to-orlando">Atlanta to Orlando</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-denver-to-los-angeles">Denver to Los Angeles</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-honolulu-to-denver">Honolulu to Denver</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-honolulu-to-las-vegas">Honolulu to Las Vegas</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-honolulu-to-los-angeles">Honolulu to Los Angeles</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-honolulu-to-miami">Honolulu to Miami</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-honolulu-to-new-york">Honolulu to New York</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-honolulu-to-newark-liberty-intl">Honolulu to Newark Liberty Intl.</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-honolulu-to-orlando">Honolulu to Orlando</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-honolulu-to-san-diego">Honolulu to San Diego</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-honolulu-to-san-francisco">Honolulu to San Francisco</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-honolulu-to-seattle">Honolulu to Seattle</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-honolulu-to-tampa">Honolulu to Tampa</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-atlanta">Las Vegas to Atlanta</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-dallas">Las Vegas to Dallas</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-denver">Las Vegas to Denver</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-houston">Las Vegas to Houston</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-toronto">Las Vegas to Toronto</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-miami">Las Vegas to Miami</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-newark-liberty-intl">Las Vegas to Newark Liberty Intl.</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-orlando">Las Vegas to Orlando</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-philadelphia">Las Vegas to Philadelphia</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-phoenix">Las Vegas to Phoenix</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-raleigh-durham">Las Vegas to Raleigh Durham</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-san-diego">Las Vegas to San Diego</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-tampa">Las Vegas to Tampa</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-toronto">Las Vegas to Toronto</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-chicago">Los Angeles to Chicago</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-seattle">Los Angeles to Seattle</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-san-francisco">Los Angeles to San Francisco</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-calgary">San Francisco to Calgary</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-dallas">San Francisco to Dallas</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-denver">San Francisco to Denver</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-miami">San Francisco to Miami</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-newark-liberty-intl">San Francisco to Newark Liberty Intl.</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-orlando">San Francisco to Orlando</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-phoenix">San Francisco to Phoenix</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-san-diego">San Francisco to San Diego</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-las-vegas">San Francisco to Las Vegas</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-tampa">San Francisco to Tampa</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-orlando">San Francisco to Orlando</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-new-york-to-chicago">New York to Chicago</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-new-york-to-los-angeles">New York to Los Angeles</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-atlanta">Phoenix to Atlanta</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-dallas">Phoenix to Dallas</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-denver">Phoenix to Denver</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-edmonton">Phoenix to Edmonton</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-fort-lauderdale">Phoenix to Fort Lauderdale</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-houston">Phoenix to Houston</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-las-vegas">Phoenix to Las Vegas</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-miami">Phoenix to Miami</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-newark-liberty-intl">Phoenix to Newark Liberty Intl.</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-philadelphia">Phoenix to Philadelphia</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-san-diego">Phoenix to San Diego</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-tampa">Phoenix to Tampa</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-toronto">Phoenix to Toronto</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-diego-to-las-vegas">San Diego to Las Vegas</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-diego-to-san-francisco">San Diego to San Francisco</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-atlanta-to-new-york">Atlanta to New York</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-atlanta-to-ft-lauderdale">Atlanta to Ft. Lauderdale</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-atlanta-to-orlando">Atlanta to Orlando</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-denver-to-los-angeles">Denver to Los Angeles</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-honolulu-to-denver">Honolulu to Denver</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-honolulu-to-las-vegas">Honolulu to Las Vegas</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-honolulu-to-los-angeles">Honolulu to Los Angeles</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-honolulu-to-miami">Honolulu to Miami</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-honolulu-to-new-york">Honolulu to New York</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-honolulu-to-newark-liberty-intl">Honolulu to Newark Liberty Intl.</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-honolulu-to-orlando">Honolulu to Orlando</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-honolulu-to-san-diego">Honolulu to San Diego</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-honolulu-to-san-francisco">Honolulu to San Francisco</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-honolulu-to-seattle">Honolulu to Seattle</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-honolulu-to-tampa">Honolulu to Tampa</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-atlanta">Las Vegas to Atlanta</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-dallas">Las Vegas to Dallas</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-denver">Las Vegas to Denver</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-houston">Las Vegas to Houston</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-toronto">Las Vegas to Toronto</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-miami">Las Vegas to Miami</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-newark-liberty-intl">Las Vegas to Newark Liberty Intl.</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-orlando">Las Vegas to Orlando</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-philadelphia">Las Vegas to Philadelphia</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-phoenix">Las Vegas to Phoenix</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-raleigh-durham">Las Vegas to Raleigh Durham</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-san-diego">Las Vegas to San Diego</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-tampa">Las Vegas to Tampa</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-las-vegas-to-toronto">Las Vegas to Toronto</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-los-angeles-to-chicago">Los Angeles to Chicago</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-los-angeles-to-seattle">Los Angeles to Seattle</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-los-angeles-to-san-francisco">Los Angeles to San Francisco</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-san-francisco-to-calgary">San Francisco to Calgary</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-san-francisco-to-dallas">San Francisco to Dallas</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-san-francisco-to-denver">San Francisco to Denver</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-san-francisco-to-miami">San Francisco to Miami</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-san-francisco-to-newark-liberty-intl">San Francisco to Newark Liberty Intl.</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-san-francisco-to-orlando">San Francisco to Orlando</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-san-francisco-to-phoenix">San Francisco to Phoenix</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-san-francisco-to-san-diego">San Francisco to San Diego</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-san-francisco-to-las-vegas">San Francisco to Las Vegas</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-san-francisco-to-tampa">San Francisco to Tampa</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-san-francisco-to-orlando">San Francisco to Orlando</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-new-york-to-chicago">New York to Chicago</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-new-york-to-los-angeles">New York to Los Angeles</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-phoenix-to-atlanta">Phoenix to Atlanta</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-phoenix-to-dallas">Phoenix to Dallas</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-phoenix-to-denver">Phoenix to Denver</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-phoenix-to-edmonton">Phoenix to Edmonton</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-phoenix-to-fort-lauderdale">Phoenix to Fort Lauderdale</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-phoenix-to-houston">Phoenix to Houston</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-phoenix-to-las-vegas">Phoenix to Las Vegas</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-phoenix-to-miami">Phoenix to Miami</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-phoenix-to-newark-liberty-intl">Phoenix to Newark Liberty Intl.</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-phoenix-to-philadelphia">Phoenix to Philadelphia</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-phoenix-to-san-diego">Phoenix to San Diego</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-phoenix-to-tampa">Phoenix to Tampa</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-phoenix-to-toronto">Phoenix to Toronto</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-san-diego-to-las-vegas">San Diego to Las Vegas</a></li>
+            <li><a href="<?= base_url() ?>index.php/cheap-flight-san-diego-to-san-francisco">San Diego to San Francisco</a></li>
             </ul>
          </div>
          <div class="ftr-sl border rounded p-3">
