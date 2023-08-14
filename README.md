@@ -6,7 +6,7 @@ Grap the cheapest airfares for Top Destinations
 
 ## Description
 
-Airfaremoss is a web application built with CodeIgniter that helps users find the cheapest airfares for top destinations. Whether you're planning a vacation, business trip, or any other travel, Airfaremoss provides an easy and convenient way to search for affordable flights.
+ Whether you're planning a vacation, business trip, or any other travel, Airfaremoss provides an easy and convenient way to search for affordable flights.
 
 ## Features
 
