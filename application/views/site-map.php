@@ -90,7 +90,6 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
             <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-dallas">Las Vegas to Dallas</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-denver">Las Vegas to Denver</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-houston">Las Vegas to Houston</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-toronto">Las Vegas to Toronto</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-miami">Las Vegas to Miami</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-newark-liberty-intl">Las Vegas to Newark Liberty Intl.</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-orlando">Las Vegas to Orlando</a></li>
@@ -103,17 +102,6 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
             <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-chicago">Los Angeles to Chicago</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-seattle">Los Angeles to Seattle</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-san-francisco">Los Angeles to San Francisco</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-calgary">San Francisco to Calgary</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-dallas">San Francisco to Dallas</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-denver">San Francisco to Denver</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-miami">San Francisco to Miami</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-newark-liberty-intl">San Francisco to Newark Liberty Intl.</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-orlando">San Francisco to Orlando</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-phoenix">San Francisco to Phoenix</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-san-diego">San Francisco to San Diego</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-las-vegas">San Francisco to Las Vegas</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-tampa">San Francisco to Tampa</a></li>
-            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-orlando">San Francisco to Orlando</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-new-york-to-chicago">New York to Chicago</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-new-york-to-los-angeles">New York to Los Angeles</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-atlanta">Phoenix to Atlanta</a></li>
@@ -131,6 +119,17 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
             <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-toronto">Phoenix to Toronto</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-san-diego-to-las-vegas">San Diego to Las Vegas</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-san-diego-to-san-francisco">San Diego to San Francisco</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-calgary">San Francisco to Calgary</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-dallas">San Francisco to Dallas</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-denver">San Francisco to Denver</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-miami">San Francisco to Miami</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-newark-liberty-intl">San Francisco to Newark Liberty Intl.</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-orlando">San Francisco to Orlando</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-phoenix">San Francisco to Phoenix</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-san-diego">San Francisco to San Diego</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-las-vegas">San Francisco to Las Vegas</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-tampa">San Francisco to Tampa</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-orlando">San Francisco to Orlando</a></li>
             </ul>
          </div>
          <div class="ftr-sl border rounded p-3">
