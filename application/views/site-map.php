@@ -101,6 +101,14 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
             <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-tampa">Las Vegas to Tampa</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-las-vegas-to-toronto">Las Vegas to Toronto</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-chicago">Los Angeles to Chicago</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-atlanta">Los Angeles to Atlanta</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-dallas">Los Angeles to Dallas</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-denver">Los Angeles to Denver</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-fort-lauderdale">Los Angeles to Fort Lauderdale</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-houston">Los Angeles to Houston</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-las-vegas">Los Angeles to Las Vegas</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-newark-liberty-intl">Los Angeles to Newark Liberty Intl.</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-toronto">Los Angeles to Toronto</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-seattle">Los Angeles to Seattle</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-los-angeles-to-san-francisco">Los Angeles to San Francisco</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-calgary">San Francisco to Calgary</a></li>
