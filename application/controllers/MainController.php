@@ -527,11 +527,18 @@ public function business_cls_reservation()
 
         // Load the Twig library
         // $this->load->library('twig');
+        
         $this->twig = new \Kenjis\CI4Twig\Twig();
         // echo '<pre>';
         // print_r($data); // Check the data being passed
         // echo '</pre>';
         // die();
+        $this->config = [ 
+            'cache' => WRITEPATH . 'cache/twig', 
+            'debug' => ENVIRONMENT !== 'production', 
+            'autoescape' => 'html', 
+        ]; 
+       
         // Define dynamic data for the template
         $templateData = array(
             'airlineName' => 'British Airways',

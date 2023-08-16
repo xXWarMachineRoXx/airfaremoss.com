@@ -95,3 +95,4 @@ database.php
 application/session/*
 application/config/*
 application/config/database.php
+WRITEPATH*
