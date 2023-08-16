@@ -1,8 +1,8 @@
 <?php
-define('FROM_LOCATION', 'SAN');
-define('TO_LOCATION', 'SFO');
-define('full_name_fl', 'San Diego');
-define('full_name_tl', 'San Francisco');
+define('FROM_LOCATION', 'LAX');
+define('TO_LOCATION', 'EWR');
+define('full_name_fl', 'Los Angeles');
+define('full_name_tl', 'Newark Liberty Intl.');
 
 // Get the current year, month, and day
 $currentYear = date('Y');
@@ -25,7 +25,7 @@ if ($currentDay <= $middleDay) {
 <script>
    document.title = "Book Cheap Flight Ticket on British Airways | Get Cheap Flight Deal British Airways - Airfaremoss";
    document.getElementsByTagName('meta')["keywords"].content = "";
-   document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Airfaremoss. Get the best fairs With US - call us @ <?= TFN ?>";   
+   document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Tourcrusier. Get the best fairs With US - call us @ <?= TFN ?>";   
 </script>
 <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"
    style="background-image: url('frontend/images/destination.avif'); background-position: 60% center;background-no-repeat: no-repeat; background-size: cover;">
