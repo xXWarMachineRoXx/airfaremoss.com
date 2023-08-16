@@ -86,9 +86,7 @@ $route['book-cheap-flights-to-dallas'] = 'MainController/cheap_flight_dallas';
 $route['book-cheap-flights-to-denver'] = 'MainController/cheap_flight_denver';
 $route['book-cheap-flights-to-los-angeles'] = 'MainController/cheap_flight_los_angeles';
 $route['book-cheap-flights-to-miami'] = 'MainController/cheap_flight_miami';
-$route['spirit-airlines'] = 'MainController/landing_page1';
-$route['frontier-airlines'] = 'MainController/landing_page2';
-$route['hawaiian-airlines'] = 'MainController/hawaiian_airlines';
+
 $route['cheap-flight-to-california'] = 'MainController/landing_california';
 $route['cheap-flight-to-alaska'] = 'MainController/landing_alaska';
 $route['site-map'] = 'MainController/site_map';
@@ -99,8 +97,13 @@ $route['book-airline-tickets-under-49'] = 'MainController/flight_under49';
 $route['flight-tickets-under-39'] = 'MainController/flight_under39';
 
 $route['flight-search'] = 'MainController/flight_search';
+//Airlines
+
 $route['hawaiian-flights'] = 'MainController/hawaiian_flights';
 $route['jetblue-airways'] = 'MainController/jetblue_flights';
+$route['spirit-airlines'] = 'MainController/landing_page1';
+$route['frontier-airlines'] = 'MainController/landing_page2';
+$route['hawaiian-airlines'] = 'MainController/hawaiian_airlines';
 $route['flights-to-united-states'] = 'MainController/united_flights';
 $route['allegiant-airlines'] = 'MainController/allegiant_airlines';
 $route['flights-to-southwest'] = 'MainController/flights_southwest';
@@ -123,11 +126,12 @@ $route['british-airways'] = 'MainController/british_airways';
 $route['norse-airlines'] = 'MainController/norse_airlines';
 $route['canadian-north'] = 'MainController/canadian_north';
 $route['qatar-airways'] = 'MainController/qatar_airways';
-
 $route['emirates-airlines'] = 'MainController/emirates_airlines';
 $route['klm-airlines'] = 'MainController/klm_airlines';
 $route['united-airlines'] = 'MainController/united_airlines';
 $route['lufthansa-airlines'] = 'MainController/lufthansa_airlines';
+$route['central-mountain-air']='MainController/central_mountain_air';
+$route['test']='MainController/test';
 $route['about-usx'] = 'MainController/about_usx';
 $route['contact-usx'] = 'MainController/contact_usx';
 $route['cheap-flight-booking'] = 'MainController/cheap_flights';
@@ -137,8 +141,8 @@ $route['flights-under-69'] = 'MainController/flights_under_69';
 $route['flights-under-99'] = 'MainController/flights_under_99';
 $route['flights-under-199'] = 'MainController/flights_under_199';
 
+// Destination Pairs
 $route['cheap-flight-denver']='MainController/cheap_flight_denver';
-
 $route['cheap-flight-phoenix-to-orlando']= 'MainController/cheap_flight_phoenix_to_orlando';
 $route['cheap-flight-phoenix-to-las-vegas']= 'MainController/cheap_flight_phoenix_to_las_vegas';
 $route['cheap-flight-phoenix-to-atlanta']= 'MainController/cheap_flight_phoenix_to_atlanta';

@@ -134,7 +134,7 @@
 </div> <!-- end here footer -->
 <div class="bottom-md-footer text-center py-1">
 <div class="container">
- <p>AIRFAREMOSS its registered office located at Address:117 Windwoods Drive, Collegeville PA 19426, in the state of Pennsylvania (USA). A Unit of FAREMOSS PVT. LTD, We are available to provide customer support on all days from Monday to Sunday. Customer Service Number: <?= TFN ?> | Email: <?= EMAIL ?> © Copyrights 2023. <?= WEBSITE ?>.</p>      
+ <p>AIRFAREMOSS its registered office located at Address:117 Windwoods Drive, Collegeville PA 19426, in the state of Pennsylvania (USA).  We are available to provide customer support on all days from Monday to Sunday. Customer Service Number: <?= TFN ?> | Email: <?= EMAIL ?> © Copyrights 2023. <?= WEBSITE ?>.</p>      
 <ul class="card-option d-flex justify-content-center align-items-center m-0 p-0">
     <li>We Accept All:</li>
 			<li><img src="<?= base_url() ?>frontend/images/visa-card.png" alt="visa card payment options"></li>

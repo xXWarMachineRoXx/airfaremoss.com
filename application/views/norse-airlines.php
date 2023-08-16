@@ -1,7 +1,7 @@
 <script>
 document.title = "Book Cheap Flight Ticket on Norse Airlines | Get Cheap Flight Deal Norse Airlines - Airfaremoss";       
 document.getElementsByTagName('meta')["keywords"].content = "";       
-document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Tourcrusier. Get the best fairs With US - call us @ <?= TFN ?>";   
+document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Airfaremoss. Get the best fairs With US - call us @ <?= TFN ?>";   
 </script>
 <!-- <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/Norse-Airlines.png'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;"> -->
 <div id="header-wrapper" class="wrap-inpg py-4 py-md-5 image " style="background-image: url('frontend/images/Norse-Airlines.png'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
