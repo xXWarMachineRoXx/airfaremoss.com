@@ -212,6 +212,15 @@ $route['cheap-flight-los-angeles-to-las-vegas']= 'MainController/cheap_flight_lo
 $route['cheap-flight-los-angeles-to-toronto']= 'MainController/cheap_flight_los_angeles_to_toronto';
 $route['cheap-flight-los-angeles-to-fort-lauderdale']= 'MainController/cheap_flight_los_angeles_to_fort_lauderdale';
 $route['cheap-flight-los-angeles-to-houston']= 'MainController/cheap_flight_los_angeles_to_houston';
+$route['cheap-flight-portland-to-atlanta']= 'MainController/cheap_flight_portland_to_atlanta';
+$route['cheap-flight-portland-to-denver']= 'MainController/cheap_flight_portland_to_denver';
+$route['cheap-flight-portland-to-houston']= 'MainController/cheap_flight_portland_to_houston';
+$route['cheap-flight-portland-to-las-vegas']= 'MainController/cheap_flight_portland_to_las_vegas';
+$route['cheap-flight-portland-to-tampa']= 'MainController/cheap_flight_portland_to_tampa';
+$route['cheap-flight-portland-to-raleigh-durham']= 'MainController/cheap_flight_portland_to_raleigh_durham';
+$route['cheap-flight-portland-to-san-diego']= 'MainController/cheap_flight_portland_to_san_diego';
+$route['cheap-flight-portland-to-orlando']= 'MainController/cheap_flight_portland_to_orlando';
+$route['cheap-flight-portland-to-newark-liberty-intl']= 'MainController/cheap_flight_portland_to_newark_liberty_intl';
 
 
 $route['flight'] = 'MainController/flights';

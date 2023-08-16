@@ -126,6 +126,15 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
             <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-san-diego">Phoenix to San Diego</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-tampa">Phoenix to Tampa</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-phoenix-to-toronto">Phoenix to Toronto</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-Portland-to-atlanta">Portland to Atlanta</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-Portland-to-denver">Portland to Denver</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-Portland-to-houston">Portland to Houston</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-Portland-to-san-diego">Portland to San Diego</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-Portland-to-las-vegas">Portland to Las Vegas</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-Portland-to-raleigh-durham">Portland to Raleigh Durham</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-Portland-to-orlando">Portland to Orlando</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-Portland-to-tampa">Portland to Tampa</a></li>
+            <li><a href="<?= base_url() ?>cheap-flight-Portland-to-newark-liberty-intl">Portland to Newark Liberty Intl.</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-san-diego-to-las-vegas">San Diego to Las Vegas</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-san-diego-to-san-francisco">San Diego to San Francisco</a></li>
             <li><a href="<?= base_url() ?>cheap-flight-san-francisco-to-calgary">San Francisco to Calgary</a></li>
