@@ -199,8 +199,14 @@ $route['cheap-flight-san-francisco-to-calgary']= 'MainController/cheap_flight_sa
 $route['cheap-flight-san-francisco-to-phoenix']= 'MainController/cheap_flight_san_francisco_to_phoenix';
 $route['cheap-flight-san-francisco-to-san-diego']= 'MainController/cheap_flight_san_francisco_to_san_diego';
 $route['cheap-flight-san-francisco-to-newark-liberty-intl']= 'MainController/cheap_flight_san_francisco_to_newark_liberty_intl';
-$route['cheap-flight-san-diego-to-san-francisco']= 'MainController/cheap_flight_san_diego_to_san_francisco';
+$route['cheap-flight-san-diego-to-fort-lauderdale']= 'MainController/cheap_flight_san_diego_to_fort_lauderdale';
 $route['cheap-flight-san-diego-to-las-vegas']= 'MainController/cheap_flight_san_diego_to_las_vegas';
+$route['cheap-flight-san-diego-to-tampa']= 'MainController/cheap_flight_san_diego_to_tampa';
+$route['cheap-flight-san-diego-to-denver']= 'MainController/cheap_flight_san_diego_to_denver';
+$route['cheap-flight-san-diego-to-atlanta']= 'MainController/cheap_flight_san_diego_to_atlanta';
+$route['cheap-flight-san-diego-to-philadelphia']= 'MainController/cheap_flight_san_diego_to_philadelphia';
+$route['cheap-flight-san-diego-to-phoenix']= 'MainController/cheap_flight_san_diego_to_phoenix';
+$route['cheap-flight-san-diego-to-newark-liberty-intl']= 'MainController/cheap_flight_san_diego_to_newark_liberty_intl';
 $route['cheap-flight-atlanta-to-new-york']= 'MainController/cheap_flight_atlanta_to_new_york';
 $route['cheap-flight-atlanta-to-ft-lauderdale']= 'MainController/cheap_flight_atlanta_to_ft_lauderdale';
 $route['flight-ticket-new-york']='MainController/flight_ticket_new_york';
@@ -221,6 +227,16 @@ $route['cheap-flight-portland-to-raleigh-durham']= 'MainController/cheap_flight_
 $route['cheap-flight-portland-to-san-diego']= 'MainController/cheap_flight_portland_to_san_diego';
 $route['cheap-flight-portland-to-orlando']= 'MainController/cheap_flight_portland_to_orlando';
 $route['cheap-flight-portland-to-newark-liberty-intl']= 'MainController/cheap_flight_portland_to_newark_liberty_intl';
+$route['cheap-flight-savannah-to-san-diego']= 'MainController/cheap_flight_savannah_to_san_diego';
+$route['cheap-flight-seattle-to-san-diego']= 'MainController/cheap_flight_seattle_to_san_diego';
+$route['cheap-flight-seattle-to-calgary']= 'MainController/cheap_flight_seattle_to_calgary';
+$route['cheap-flight-seattle-to-atlanta']= 'MainController/cheap_flight_seattle_to_atlanta';
+$route['cheap-flight-seattle-to-miami']= 'MainController/cheap_flight_seattle_to_miami';
+$route['cheap-flight-seattle-to-phoenix']= 'MainController/cheap_flight_seattle_to_phoenix';
+$route['cheap-flight-seattle-to-dallas']= 'MainController/cheap_flight_seattle_to_dallas';
+$route['cheap-flight-seattle-to-houston']= 'MainController/cheap_flight_seattle_to_houston';
+$route['cheap-flight-seattle-to-newark-liberty-intl']= 'MainController/cheap_flight_seattle_to_newark_liberty_intl';
+
 
 
 $route['flight'] = 'MainController/flights';

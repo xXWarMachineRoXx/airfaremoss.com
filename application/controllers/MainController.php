@@ -1139,13 +1139,49 @@ public function business_cls_reservation()
         $this->load->view("cheap-flight-san-diego-to-las-vegas");
         $this->load->view("includes/front_footer");
     } 
-    public function cheap_flight_san_diego_to_san_francisco()
+    public function cheap_flight_san_diego_to_atlanta()
     {
-        $data = get_data("cheap-flight-san-diego-to-san-francisco.php")[0];
+        $data = get_data("cheap-flight-san-diego-to-atlanta.php")[0];
         $this->load->view("includes/front_header", compact("data"));
-        $this->load->view("cheap-flight-san-diego-to-san-francisco");
+        $this->load->view("cheap-flight-san-diego-to-atlanta");
         $this->load->view("includes/front_footer");
-    } 
+    }     public function cheap_flight_san_diego_to_denver()
+    {
+        $data = get_data("cheap-flight-san-diego-to-denver.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-san-diego-to-denver");
+        $this->load->view("includes/front_footer");
+    }     public function cheap_flight_san_diego_to_fort_lauderdale()
+    {
+        $data = get_data("cheap-flight-san-diego-to-fort-lauderdale.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-san-diego-to-fort-lauderdale");
+        $this->load->view("includes/front_footer");
+    }     public function cheap_flight_san_diego_to_newark_liberty_intl()
+    {
+        $data = get_data("cheap-flight-san-diego-to-newark-liberty-intl.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-san-diego-to-newark-liberty-intl");
+        $this->load->view("includes/front_footer");
+    }     public function cheap_flight_san_diego_to_philadelphia()
+    {
+        $data = get_data("cheap-flight-san-diego-to-philadelphia.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-san-diego-to-philadelphia");
+        $this->load->view("includes/front_footer");
+    }     public function cheap_flight_san_diego_to_phoenix()
+    {
+        $data = get_data("cheap-flight-san-diego-to-phoenix.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-san-diego-to-phoenix");
+        $this->load->view("includes/front_footer");
+    }     public function cheap_flight_san_diego_to_tampa()
+    {
+        $data = get_data("cheap-flight-san-diego-to-tampa.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-san-diego-to-tampa");
+        $this->load->view("includes/front_footer");
+    }
     public function cheap_flight_san_francisco_to_denver()
     {
         $data = get_data("cheap-flight-san-francisco-to-denver.php")[0];
@@ -1188,7 +1224,69 @@ public function business_cls_reservation()
         $this->load->view("cheap-flight-new-york-to-los-angeles");
         $this->load->view("includes/front_footer");
     }
-
+    public function cheap_flight_savannah_to_san_diego()
+    {
+        $data = get_data("cheap-flight-savannah-to-san-diego.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-savannah-to-san-diego");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_seattle_to_atlanta()
+    {
+        $data = get_data("cheap-flight-seattle-to-atlanta.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-seattle-to-atlanta");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_seattle_to_newark_liberty_intl()
+    {
+        $data = get_data("cheap-flight-seattle-to-newark-liberty-intl.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-seattle-to-newark-liberty-intl");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_seattle_to_houston()
+    {
+        $data = get_data("cheap-flight-seattle-to-houston.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-seattle-to-houston");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_seattle_to_miami()
+    {
+        $data = get_data("cheap-flight-seattle-to-miami.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-seattle-to-miami");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_seattle_to_phoenix()
+    {
+        $data = get_data("cheap-flight-seattle-to-phoenix.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-seattle-to-phoenix");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_seattle_to_calgary()
+    {
+        $data = get_data("cheap-flight-seattle-to-calgary.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-seattle-to-calgary");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_seattle_to_san_diego()
+    {
+        $data = get_data("cheap-flight-seattle-to-san-diego.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-seattle-to-san-diego");
+        $this->load->view("includes/front_footer");
+    }
+    public function cheap_flight_seattle_to_dallas()
+    {
+        $data = get_data("cheap-flight-seattle-to-dallas.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cheap-flight-seattle-to-dallas");
+        $this->load->view("includes/front_footer");
+    }
 
     public function session()
     {

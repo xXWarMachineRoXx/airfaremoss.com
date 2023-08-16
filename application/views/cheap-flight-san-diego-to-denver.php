@@ -1,8 +1,8 @@
 <?php
 define('FROM_LOCATION', 'SAN');
-define('TO_LOCATION', 'SFO');
+define('TO_LOCATION', 'DEN');
 define('full_name_fl', 'San Diego');
-define('full_name_tl', 'San Francisco');
+define('full_name_tl', 'Denver');
 
 // Get the current year, month, and day
 $currentYear = date('Y');
