@@ -35,8 +35,9 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
 
                <li><a href="<?= base_url() ?>lufthansa-airlines">Lufthansa Airlines</a></li>
                <li><a href="<?= base_url() ?>emirates-airlines">Emirates Airlines</a></li>
-              
-              <!-- <li><a href="<?= base_url() ?>flair-airlines">Flair Airlines</a></li>
+               <li><a href="<?= base_url() ?>central-mountain-air">Central Mountain Air</a></li>
+
+               <!-- <li><a href="<?= base_url() ?>flair-airlines">Flair Airlines</a></li>
                <li><a href="<?= base_url() ?>frontier-airlines">Frontier Airlines</a></li>
                <li><a href="<?= base_url() ?>aeromexico-airlines">Aeromexico Airlines</a></li>-->
             </ul>
