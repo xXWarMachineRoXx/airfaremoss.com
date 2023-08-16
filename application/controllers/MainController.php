@@ -514,6 +514,40 @@ public function business_cls_reservation()
         $this->load->view("british-airways");
         $this->load->view("includes/front_footer");
     }
+
+    public function central_mountain_air()
+    {
+        $data = get_data("central-mountain-air.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("central-mountain-air");
+        $this->load->view("includes/front_footer");
+    }
+    public function test(){
+        $data = get_data("central-mountain-air.php")[0];
+
+        // Load the Twig library
+        // $this->load->library('twig');
+        
+        $this->twig = new \Kenjis\CI4Twig\Twig();
+        // echo '<pre>';
+        // print_r($data); // Check the data being passed
+        // echo '</pre>';
+        // die();
+        $this->config = [ 
+            'cache' => WRITEPATH . 'cache/twig', 
+            'debug' => ENVIRONMENT !== 'production', 
+            'autoescape' => 'html', 
+        ]; 
+       
+        // Define dynamic data for the template
+        $templateData = array(
+            'airlineName' => 'British Airways',
+            'imageName' => 'british-air.jpg',
+        );
+
+        // Render the Twig template with dynamic data
+        $this->twig->display('test', $templateData);
+    }
     public function norse_airlines()
     {
         $data = get_data("norse-airlines.php")[0];

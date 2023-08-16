@@ -30,7 +30,7 @@ if ($currentDay <= $middleDay) {
 <script>
    document.title = "Book Cheap Flight Ticket on British Airways | Get Cheap Flight Deal British Airways - Airfaremoss";
    document.getElementsByTagName('meta')["keywords"].content = "";
-   document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Tourcrusier. Get the best fairs With US - call us @ <?= TFN ?>";   
+   document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Airfaremoss. Get the best fairs With US - call us @ <?= TFN ?>";   
 </script>
 <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"
    style="background-image: url('frontend/images/destination.avif'); background-position: 60% center;background-no-repeat: no-repeat; background-size: cover;">

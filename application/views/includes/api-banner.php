@@ -162,7 +162,7 @@
                     
                 }
                 </style>
-                <div class="container d-none d-lg-block display-new">
+                <div  class="container d-none d-lg-block display-new">
                     <div class="card-group mt-5">
                         <div class="card d-flex flex-column justify-content-center align-items-center">
                             <div class="card-body ">
