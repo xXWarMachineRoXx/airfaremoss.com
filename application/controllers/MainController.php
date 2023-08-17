@@ -581,9 +581,9 @@ public function business_cls_reservation()
     public function klm_airlines()
     {
         $data = get_data("klm-airlines.php")[0];
-        $this->load->view("includes/front_header_test", compact("data"));
+        $this->load->view("includes/front_header", compact("data"));
         $this->load->view("klm-airlines");
-        $this->load->view("includes/front_footer_test");
+        $this->load->view("includes/front_footer");
     }
     
     public function united_airlines()
