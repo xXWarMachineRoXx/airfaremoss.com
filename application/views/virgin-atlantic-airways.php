@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
-define('Airline', 'Lufthansa Airlines');
+define('Airline', 'Virgin Atlantic Airways');
 
 
 ?>
@@ -180,25 +180,21 @@ define('Airline', 'Lufthansa Airlines');
             <?= Airline ?>
          </div>
       </div>
-      <p>Enjoy cheap flight deals to your destination without compromising on services by booking tickets with Airfaremoss. We present numerous deals on various world’s renowned airlines. At Airfaremoss, we secure the best deals on Lufthansa Airlines.
+      <p>Enjoy cheap flight deals to your destination without compromising on services by booking tickets with Airfaremoss. We present numerous deals on various world’s renowned airlines. At Airfaremoss, we secure the best deals on Virgin Atlantic Airways.
       </p>
       <h3>About</h3>
-      <p>Lufthansa is the flag carrier airline of Germany and a member of the Star Alliance. It is the second-largest airline in Europe in terms of passengers carried, after Ryanair. Lufthansa operates a fleet of over 700 aircraft to over 200 destinations in Europe, Asia, Africa, North America, and South America.
-      </p>
-      <p>Lufthansa is a major player in the global airline industry. It is known for its high standards of service and its commitment to safety. Lufthansa is also a leader in environmental sustainability, and it is committed to reducing its carbon emissions.
-      </p>
-      <p> Here are some of the things that make Lufthansa a highly rated airline:</p>
+      <p>Virgin Atlantic Airways is a British airline headquartered in Crawley, England, and its main base is London Heathrow Airport. It operates a fleet of 43 aircraft flying to 35 destinations in North America, the Caribbean, Africa, the Middle East, and Asia.</p>
+      <p>Virgin Atlantic is a member of the SkyTeam airline alliance and is known for its luxurious cabins, excellent customer service, and innovative in-flight entertainment.</p>
+      <p> Here are some of the things that make Virgin Atlantic a popular airline:</p>
       <ul>
-  <li>Excellent customer service: Lufthansa is known for its friendly and efficient customer service. Passengers consistently rate Lufthansa highly for its check-in, boarding, and in-flight services.</li>
-  <li>Safety: Lufthansa is one of the safest airlines in the world. It has a good safety record and it invests heavily in safety training for its pilots and crew.
-</li>
-  <li>Comfort: Lufthansa offers a comfortable flying experience. Its aircraft are equipped with modern amenities, such as spacious seats, in-flight entertainment, and Wi-Fi.
-</li>
-  <li>Punctuality: Lufthansa is a punctual airline. Most of its flights arrive and depart on time.</li>
-  <li>Value for money: Lufthansa offers a good value for money. Its fares are competitive, and it offers a variety of fare options to suit different budgets.</li>
+  <li> Luxurious cabins: Virgin Atlantic's cabins are known for their spaciousness and comfort. Upper Class passengers enjoy lie-flat seats, direct-aisle access, and a personal wardrobe. Premium Economy passengers enjoy wider seats, more legroom, and a dedicated check-in area. Economy passengers enjoy comfortable seats with plenty of legroom.</li>
+  <li>Excellent customer service: Virgin Atlantic is known for its friendly and attentive customer service. Passengers consistently rate Virgin Atlantic highly for its check-in, boarding, and in-flight services.</li>
+  <li> Innovative in-flight entertainment: Virgin Atlantic offers a wide range of in-flight entertainment options, including movies, TV shows, games, and music. Passengers can also access the internet and email on most flights.</li>
+  <li>Safety: Virgin Atlantic has a good safety record. It has never had a fatal accident involving a passenger aircraft.</li>
+  <li> Affordable fares: Virgin Atlantic offers a variety of fare options to suit different budgets. Passengers can also save money by booking in advance or by being a member of the Virgin Atlantic Flying Club loyalty program.</li>
 </ul>
-<p>Overall, Lufthansa is a highly rated airline that offers a safe, comfortable, and affordable flying experience.</p>
-<p>Fly to any corner of the world including New York, San Francisco, and Chicago. Connect to Airfaremoss to book flights to the United States or any other Lufthansa Airlines International flight routes. You can connect us at +1 888-811-2217.</p>
+<p>Overall, Virgin Atlantic is a great choice for travelers who are looking for a safe, comfortable, and luxurious flying experience. It offers a wide range of destinations around the world, and it has a good reputation for customer service. If you are planning a trip, be sure to consider Virgin Atlantic as an option.</p>
+<p>Connect to Airfaremoss to book flights to the United States or Britain or any other Virgin Atlantic Airways International flight routes. You can connect us at +1 888-811-2217.</p>
       <div class="all-content">
          <h3>Booking Method</h3>
          <p>To book a low-cost flight, passengers must go to the Airfaremoss website. Online flight booking saves money

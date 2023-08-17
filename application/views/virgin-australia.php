@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
-define('Airline', 'Lufthansa Airlines');
+define('Airline', 'Virgin Australia');
 
 
 ?>
@@ -180,25 +180,19 @@ define('Airline', 'Lufthansa Airlines');
             <?= Airline ?>
          </div>
       </div>
-      <p>Enjoy cheap flight deals to your destination without compromising on services by booking tickets with Airfaremoss. We present numerous deals on various world’s renowned airlines. At Airfaremoss, we secure the best deals on Lufthansa Airlines.
+      <p>Enjoy cheap flight deals to your destination without compromising on services by booking tickets with Airfaremoss. We present numerous deals on various world’s renowned airlines. At Airfaremoss, we secure the best deals on Virgin Australia.
       </p>
       <h3>About</h3>
-      <p>Lufthansa is the flag carrier airline of Germany and a member of the Star Alliance. It is the second-largest airline in Europe in terms of passengers carried, after Ryanair. Lufthansa operates a fleet of over 700 aircraft to over 200 destinations in Europe, Asia, Africa, North America, and South America.
-      </p>
-      <p>Lufthansa is a major player in the global airline industry. It is known for its high standards of service and its commitment to safety. Lufthansa is also a leader in environmental sustainability, and it is committed to reducing its carbon emissions.
-      </p>
-      <p> Here are some of the things that make Lufthansa a highly rated airline:</p>
+      <p>Virgin Australia is an Australian airline headquartered in Brisbane, Queensland. It is the country's second-largest airline by fleet size and international passengers carried, after Qantas. The airline operates scheduled domestic and international services to over 40 destinations in Australia, New Zealand, Asia, and the Pacific. The airline's headquarters is located at Brisbane Airport in Queensland.</p>
+      <p> Here are some of the things that make Virgin Australia a popular airline:</p>
       <ul>
-  <li>Excellent customer service: Lufthansa is known for its friendly and efficient customer service. Passengers consistently rate Lufthansa highly for its check-in, boarding, and in-flight services.</li>
-  <li>Safety: Lufthansa is one of the safest airlines in the world. It has a good safety record and it invests heavily in safety training for its pilots and crew.
-</li>
-  <li>Comfort: Lufthansa offers a comfortable flying experience. Its aircraft are equipped with modern amenities, such as spacious seats, in-flight entertainment, and Wi-Fi.
-</li>
-  <li>Punctuality: Lufthansa is a punctual airline. Most of its flights arrive and depart on time.</li>
-  <li>Value for money: Lufthansa offers a good value for money. Its fares are competitive, and it offers a variety of fare options to suit different budgets.</li>
+  <li>Virgin Australia's fleet consists of over 100 aircraft, including Boeing 737s, Airbus A330s, and Airbus A320neos.</li>
+  <li>The airline's main domestic hubs are Brisbane Airport, Melbourne Airport, and Sydney Airport.</li>
+  <li>Virgin Australia's major destinations include Auckland, Bali, Bangkok, Hong Kong, Los Angeles, London, Melbourne, Perth, Singapore, Sydney, and Tokyo.</li>
+  <li>Virgin Australia is a member of the Oneworld alliance.</li>
 </ul>
-<p>Overall, Lufthansa is a highly rated airline that offers a safe, comfortable, and affordable flying experience.</p>
-<p>Fly to any corner of the world including New York, San Francisco, and Chicago. Connect to Airfaremoss to book flights to the United States or any other Lufthansa Airlines International flight routes. You can connect us at +1 888-811-2217.</p>
+<p>Overall, Virgin Australia is a great choice for travelers who are looking for a safe, comfortable, and luxurious flying experience. It offers a wide range of destinations around the world, and it has a good reputation for customer service. If you are planning a trip, be sure to consider Virgin Australia as an option.</p>
+<p>Connect to Airfaremoss to book flights to the United States or Australia or any other Lufthansa Airlines International flight routes. You can connect us at +1 888-811-2217.</p>
       <div class="all-content">
          <h3>Booking Method</h3>
          <p>To book a low-cost flight, passengers must go to the Airfaremoss website. Online flight booking saves money
