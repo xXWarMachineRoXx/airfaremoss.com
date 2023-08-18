@@ -1,5 +1,5 @@
 <div class="right-side-card p-3"
-    style="background:#f7f7f7 url(frontend/images/flight-booking01.png) no-repeat left center; background-size:cover;">
+    style="background:#f7f7f7 url(frontend/images/cheap-flight.png) no-repeat left center; background-size:cover;">
     <div class="text-black">
         <b class='text-black'>Need help with a booking?</b><br>On <span class="airline-name">Airlines</span> Tickets Booking With Our
         Travel Experts
@@ -10,7 +10,7 @@
         </div>
         <div class="col-12 col-md-6">
             <div class="for-changes">
-                <a href="tel:+1 844-304-9595">
+                <a href="tel:<?=TFN?>">
                     <span ><i class="fa fa-check-circle" aria-hidden="true"></i> Booking</span>
                     <span><i class="fa fa-check-circle" aria-hidden="true"></i> Changes</span>
                     <span><i class="fa fa-check-circle" aria-hidden="true"></i> Cancellation</span>
