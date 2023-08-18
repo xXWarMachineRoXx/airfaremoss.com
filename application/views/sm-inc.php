@@ -1,7 +1,7 @@
 <div class="right-side-card p-3"
     style="background:#f7f7f7 url(frontend/images/cheap-flight.png) no-repeat left center; background-size:cover;">
     <div class="text-black">
-        <b class='text-black'>Need help with a booking?</b><br>On <span class="airline-name">Airlines</span> Tickets Booking With Our
+        <b class='text-black'>Need help with a booking?</b><br>Get help with <span class="airline-name">Airlines</span> Tickets Booking With Our
         Travel Experts
     </div>
 
