@@ -164,7 +164,7 @@ document.getElementsByTagName('meta')["description"].content = "Travel doesn't h
             <div class="headingtxt hdadjt">
                <div class="headh3 txt-ff txtc">Alaska Airlines - Book your flights with us and enjoy huge savings on airfare.</div>
             </div>
-           <p>It's easy to purchase Alaska Airlines tickets at Airfaremoss. Additionally, everyone may book with total confidence because of our numerous reservation options and straightforward cancellation policy. Your one-stop shop for all of your travel requirements is Airfaremoss.</p>
+           <p>It's easy to purchase <a class='text-primary'href='https://www.alaskaair.com'>Alaska Airlines</a> tickets at Airfaremoss. Additionally, everyone may book with total confidence because of our numerous reservation options and straightforward cancellation policy. Your one-stop shop for all of your travel requirements is Airfaremoss.</p>
 <h3>Introduction to Alaska Airlines</h3>
 <p>A domestic airline with its headquarters in the US is Alaska Airlines. Seattle Tacoma International Airport serves as its core and administrative hub. The airline's secondary hub is Anchorage. Main Cabin, Premium Class, and First Class are the three service tiers offered by Alaska Airlines.</p>
 <p>Alaska Airlines has become well-known along the West Coast and in the Pacific Northwest, garnering attention on a national scale. It's also renowned for its excellent onboard service, roomy cabin, affordable basic economy rates, and blazing-fast in-flight Wi-Fi.</p>
@@ -178,7 +178,7 @@ document.getElementsByTagName('meta')["description"].content = "Travel doesn't h
 <p>Each seat in the Main Cabin has a power outlet, allowing travelers to keep their electronic gadgets charged. You will have greater space in Premium Class. Free beverages are provided. The chairs are reasonably spacious in First Class. In this kind of service, a specialized flight attendant is offered. One benefit of traveling in First Class is that luggage will arrive at the destination more quickly and with priority check-in.</p>
 
 			 <h3>Frequent flyer program</h3>
-<p>Alaska Airlines' loyalty program is called Mileage Plan. You can accrue worthwhile points by flying with carriers like British Airways and Cathay Pacific because they are members of the Oneworld alliance.</p>
+<p>Alaska Airlines' loyalty program is called <a href='https://www.alaskaair.com/content/mileage-plan'>Mileage Plan</a>. You can accrue worthwhile points by flying with carriers like British Airways and Cathay Pacific because they are members of the Oneworld alliance.</p>
 <p>Alaska has one of the most generous frequent flyer programs, rewarding miles for miles flown. There are numerous additional ways to accumulate miles through regular activities including dining, shopping, and hotel stays.</p>
 <h3>Customer Satisfaction</h3>
 <p>Alaska Airlines is highly regarded by customers in general. At the core of this is customer service, with Alaska getting acclaim for its amiable, supportive flight attendants as well as attentive customer service team.</p>
