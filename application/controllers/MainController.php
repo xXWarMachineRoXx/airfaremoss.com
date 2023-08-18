@@ -529,6 +529,14 @@ public function business_cls_reservation()
         $this->load->view("japan-airlines");
         $this->load->view("includes/front_footer");
     }
+
+    public function asiana_airlines()
+    {
+        $data = get_data("asiana-airlines.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("asiana-airlines");
+        $this->load->view("includes/front_footer");
+    }
     public function virgin_australia()
     {
         $data = get_data("virgin-australia.php")[0];

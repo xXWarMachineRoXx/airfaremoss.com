@@ -134,6 +134,8 @@ $route['qantas-airways'] = 'MainController/qantas_airways';
 $route['virgin-atlantic-airways'] = 'MainController/virgin_atlantic_airways';
 $route['virgin-australia'] = 'MainController/virgin_australia';
 $route['japan-airlines'] = 'MainController/japan_airlines';
+$route['asiana-airlines'] = 'MainController/asiana_airlines';
+
 
 $route['central-mountain-air']='MainController/central_mountain_air';
 $route['test']='MainController/test';

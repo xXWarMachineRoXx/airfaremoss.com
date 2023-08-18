@@ -25,14 +25,13 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
                <li><a href="<?= base_url() ?>allegiant-airlines">Allegiant Airlines</a></li>
                <li><a href="<?= base_url() ?>jetblue-airways">Jetblue Airways</a></li>
                <li><a href="<?= base_url() ?>hawaiian-airlines">Hawaiian Airlines</a></li>
-                <li><a href="<?= base_url() ?>southwest-airlines">Southwest Airlines</a></li>
+               <li><a href="<?= base_url() ?>southwest-airlines">Southwest Airlines</a></li>
                <li><a href="<?= base_url() ?>spirit-airlines">Spirit Airlines</a></li>
                <li><a href="<?= base_url() ?>air-canada">Air Canada</a></li>
                <li><a href="<?= base_url() ?>british-airways">British Airways</a></li>
                <li><a href="<?= base_url() ?>norse-airlines">Norse Airlines</a></li>
                <li><a href="<?= base_url() ?>canadian-north">Canadian North</a></li>
                <li><a href="<?= base_url() ?>qatar-airways">Qatar Airways</a></li>
-
                <li><a href="<?= base_url() ?>lufthansa-airlines">Lufthansa Airlines</a></li>
                <li><a href="<?= base_url() ?>emirates-airlines">Emirates Airlines</a></li>
                <li><a href="<?= base_url() ?>central-mountain-air">Central Mountain Air</a></li>
@@ -40,6 +39,8 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
                <li><a href="<?= base_url() ?>virgin-atlantic-airways">Virgin Atlantic Airways</a></li>
                <li><a href="<?= base_url() ?>virgin-australia">Virgin Australia</a></li>
                <li><a href="<?= base_url() ?>japan-airlines">Japan Airlines</a></li>
+               <li><a href="<?= base_url() ?>asiana-airlines">Asiana Airlines</a></li>
+
 
                <!-- <li><a href="<?= base_url() ?>flair-airlines">Flair Airlines</a></li>
                <li><a href="<?= base_url() ?>frontier-airlines">Frontier Airlines</a></li>
@@ -65,7 +66,7 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
          <div class="ftr-sl border rounded p-3 mb-3">
             <h5 class="ul-head">Deals</h5>
             <ul>
-                 <li><a href="<?= base_url() ?>cheap-flight-tickets">Cheap Flight Tickets</a></li>
+               <li><a href="<?= base_url() ?>cheap-flight-tickets">Cheap Flight Tickets</a></li>
                <li><a href="<?= base_url() ?>cheap-flight-booking">Cheap Flight Booking</a></li>
                <li><a href="<?= base_url() ?>flights-under-49">Flights Under $49</a></li>
                <li><a href="<?= base_url() ?>flights-under-69">Flights Under $69</a></li>
