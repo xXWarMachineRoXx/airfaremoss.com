@@ -36,6 +36,10 @@ document.getElementsByTagName('meta')["description"].content = "Site Map Airfare
                <li><a href="<?= base_url() ?>lufthansa-airlines">Lufthansa Airlines</a></li>
                <li><a href="<?= base_url() ?>emirates-airlines">Emirates Airlines</a></li>
                <li><a href="<?= base_url() ?>central-mountain-air">Central Mountain Air</a></li>
+               <li><a href="<?= base_url() ?>qantas-airways">Qantas Airways</a></li>
+               <li><a href="<?= base_url() ?>virgin-atlantic-airways">Virgin Atlantic Airways</a></li>
+               <li><a href="<?= base_url() ?>virgin-australia">Virgin Australia</a></li>
+               <li><a href="<?= base_url() ?>japan-airlines">Japan Airlines</a></li>
 
                <!-- <li><a href="<?= base_url() ?>flair-airlines">Flair Airlines</a></li>
                <li><a href="<?= base_url() ?>frontier-airlines">Frontier Airlines</a></li>

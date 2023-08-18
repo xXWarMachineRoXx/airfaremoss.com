@@ -130,6 +130,11 @@ $route['emirates-airlines'] = 'MainController/emirates_airlines';
 $route['klm-airlines'] = 'MainController/klm_airlines';
 $route['united-airlines'] = 'MainController/united_airlines';
 $route['lufthansa-airlines'] = 'MainController/lufthansa_airlines';
+$route['qantas-airways'] = 'MainController/qantas_airways';
+$route['virgin-atlantic-airways'] = 'MainController/virgin_atlantic_airways';
+$route['virgin-australia'] = 'MainController/virgin_australia';
+$route['japan-airlines'] = 'MainController/japan_airlines';
+
 $route['central-mountain-air']='MainController/central_mountain_air';
 $route['test']='MainController/test';
 $route['about-usx'] = 'MainController/about_usx';

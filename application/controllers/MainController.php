@@ -522,6 +522,34 @@ public function business_cls_reservation()
         $this->load->view("central-mountain-air");
         $this->load->view("includes/front_footer");
     }
+    public function japan_airlines()
+    {
+        $data = get_data("japan-airlines.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("japan-airlines");
+        $this->load->view("includes/front_footer");
+    }
+    public function virgin_australia()
+    {
+        $data = get_data("virgin-australia.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("virgin-australia");
+        $this->load->view("includes/front_footer");
+    }
+    public function virgin_atlantic_airways()
+    {
+        $data = get_data("virgin-atlantic-airways.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("virgin-atlantic-airways");
+        $this->load->view("includes/front_footer");
+    }
+    public function qantas_airways()
+    {
+        $data = get_data("qantas-airways.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("qantas-airways");
+        $this->load->view("includes/front_footer");
+    }
     public function test(){
         $data = get_data("central-mountain-air.php")[0];
 

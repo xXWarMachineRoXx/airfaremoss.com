@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
-define('Airline', 'Lufthansa Airlines');
+define('Airline', 'Japan Airlines');
 
 
 ?>
@@ -180,25 +180,20 @@ define('Airline', 'Lufthansa Airlines');
             <?= Airline ?>
          </div>
       </div>
-      <p>Enjoy cheap flight deals to your destination without compromising on services by booking tickets with Airfaremoss. We present numerous deals on various world’s renowned airlines. At Airfaremoss, we secure the best deals on Lufthansa Airlines.
+      <p>Enjoy cheap flight deals to your destination without compromising on services by booking tickets with Airfaremoss. We present numerous deals on various world’s renowned airlines. At Airfaremoss, we secure the best deals on Japan Airlines.
       </p>
       <h3>About</h3>
-      <p>Lufthansa is the flag carrier airline of Germany and a member of the Star Alliance. It is the second-largest airline in Europe in terms of passengers carried, after Ryanair. Lufthansa operates a fleet of over 700 aircraft to over 200 destinations in Europe, Asia, Africa, North America, and South America.
-      </p>
-      <p>Lufthansa is a major player in the global airline industry. It is known for its high standards of service and its commitment to safety. Lufthansa is also a leader in environmental sustainability, and it is committed to reducing its carbon emissions.
-      </p>
-      <p> Here are some of the things that make Lufthansa a highly rated airline:</p>
+      <p>Japan Airlines (JAL) is the flag carrier airline of Japan. It is headquartered in Shinagawa, Tokyo, and operates scheduled and charter flights to over 150 destinations in Asia, North America, Europe, Oceania, and South America. JAL is a member of the Oneworld alliance. </p>
+      <p>JAL offers a variety of classes of service, including Economy Class, Premium Economy Class, and Business Class. The airline's Economy Class seats are spacious and comfortable, and the food is of high quality. Premium Economy Class offers more legroom and wider seats, as well as access to the airline's lounges. Business Class offers lie-flat seats, gourmet meals, and attentive service.</p>
+      <p>Some additional facts about Japan Airlines:</p>
       <ul>
-  <li>Excellent customer service: Lufthansa is known for its friendly and efficient customer service. Passengers consistently rate Lufthansa highly for its check-in, boarding, and in-flight services.</li>
-  <li>Safety: Lufthansa is one of the safest airlines in the world. It has a good safety record and it invests heavily in safety training for its pilots and crew.
-</li>
-  <li>Comfort: Lufthansa offers a comfortable flying experience. Its aircraft are equipped with modern amenities, such as spacious seats, in-flight entertainment, and Wi-Fi.
-</li>
-  <li>Punctuality: Lufthansa is a punctual airline. Most of its flights arrive and depart on time.</li>
-  <li>Value for money: Lufthansa offers a good value for money. Its fares are competitive, and it offers a variety of fare options to suit different budgets.</li>
+  <li>JAL's fleet consists of over 200 aircraft, including Boeing 777s, 787s, and Airbus A350s.</li>
+  <li>JAL's main hubs are Tokyo Narita Airport and Tokyo Haneda Airport.</li>
+  <li>JAL's major destinations include Los Angeles, New York, London, Paris, Sydney, Singapore, and Hong Kong.</li>
+  <li>JAL is a member of the Oneworld alliance, which also includes American Airlines, British Airways, Qantas, and Cathay Pacific.</li>
 </ul>
-<p>Overall, Lufthansa is a highly rated airline that offers a safe, comfortable, and affordable flying experience.</p>
-<p>Fly to any corner of the world including New York, San Francisco, and Chicago. Connect to Airfaremoss to book flights to the United States or any other Lufthansa Airlines International flight routes. You can connect us at +1 888-811-2217.</p>
+<p>Overall, Japan Airlines is a great choice for travelers who are looking for a safe, comfortable, and luxurious flying experience. It offers a wide range of destinations around the world, and it has a good reputation for customer service. If you are planning a trip, be sure to consider Japan Airlines as an option.</p>
+<p>Connect to Airfaremoss to book flights to the United States or Japan or any other Japan Airlines International flight routes. You can connect us at +1 888-811-2217.</p>
       <div class="all-content">
          <h3>Booking Method</h3>
          <p>To book a low-cost flight, passengers must go to the Airfaremoss website. Online flight booking saves money
