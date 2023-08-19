@@ -38,12 +38,23 @@
                <li><a href="Qantas Airways">Qantas Airways</a></li>
                <li><a href="Qatar Airways">Qatar Airways</a></li>
                <li><a href="Southwest Airlines">Southwest Airlines</a></li>
-               <li><a href="Spirit Airlines">Spirit Airlines</a></li>
-               <li><a href="Virgin Atlantic Airways">Virgin Atlantic Airways</a></li>
-               <li><a href="Virgin Australia">Virgin Australia</a></li>
+               <li><a href="spirit-airlines">Spirit Airlines</a></li>
+               <li><a href="virgin-atlantic-airways">Virgin Atlantic Airways</a></li>
+               <li><a href="virgin-australia">Virgin Australia</a></li>
                <!-- <li><a href="<?= base_url() ?>flair-airlines">Flair Airlines</a></li>
                <li><a href="<?= base_url() ?>frontier-airlines">Frontier Airlines</a></li>
                <li><a href="<?= base_url() ?>aeromexico-airlines">Aeromexico Airlines</a></li> -->
+               <li><a href="air-new-zealand">Air New Zealand</a></li>
+               <li><a href="all-nippon-airways">All Nippon Airways</a></li>
+               <li><a href="cathay-pacific-airways">Cathay Pacific Airways</a></li>
+               <li><a href="copa-airlines">Copa Airlines</a></li>
+               <li><a href="etihad-airlines">Etihad Airlines</a></li>
+               <li><a href="latam-airlines">Latam Airlines</a></li>
+               <li><a href="philippine-airlines">Philadelphia Airlines</a></li>
+               <li><a href="singapore-airlines">Singapore Airlines</a></li>
+               <li><a href="turkish-airlines">Turkish Airlines</a></li>
+               <li><a href="volaris">volaris</a></li>
+               
             </ul>
 
 
