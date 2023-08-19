@@ -21,7 +21,7 @@
          <div class="ftr-sl border rounded p-3 mb-3">
             <h5 class="ul-head">Airlines</h5>
             <ul>
-               <li><a href="<?= base_url() ?>aeromexico-airlines">Aeromexico Airlines</a></li>
+               <!-- <li><a href="<?= base_url() ?>aeromexico-airlines">Aeromexico Airlines</a></li> -->
                <li><a href="<?= base_url() ?>air-canada">Air Canada</a></li>
                <li><a href="<?= base_url() ?>air-france-airlines">Air France Airlines</a></li>
                <li><a href="<?= base_url() ?>air-new-zealand">Air New Zealand</a></li>
