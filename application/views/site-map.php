@@ -12,7 +12,7 @@
                <h1 class="heading ttu fwb"> Site Map</h1>
                <ol class="breadcrumb justify-content-center">
                   <li><a href="/">Home</a></li>
-                  <li class="active"> Site Map</li>
+                  <li href='#' class="active"> Site Map</li>
                </ol>
             </div>
          </div>
@@ -20,45 +20,39 @@
       <div class="container site-map my-3 my-md-5">
          <div class="ftr-sl border rounded p-3 mb-3">
             <h5 class="ul-head">Airlines</h5>
-            <ul>
-               <li><a href="Air Canada">Air Canada</a></li>
-               <li><a href="Air France Airlines">Air France Airlines</a></li>
-               <li><a href="Alaska Airlines">Alaska Airlines</a></li>
-               <li><a href="Allegiant Airlines">Allegiant Airlines</a></li>
-               <li><a href="Asiana Airlines">Asiana Airlines</a></li>
-               <li><a href="British Airways">British Airways</a></li>
-               <li><a href="Canadian North">Canadian North</a></li>
-               <li><a href="Central Mountain Air">Central Mountain Air</a></li>
-               <li><a href="Emirates Airlines">Emirates Airlines</a></li>
-               <li><a href="Hawaiian Airlines">Hawaiian Airlines</a></li>
-               <li><a href="Japan Airlines">Japan Airlines</a></li>
-               <li><a href="Jetblue Airways">Jetblue Airways</a></li>
-               <li><a href="Lufthansa Airlines">Lufthansa Airlines</a></li>
-               <li><a href="Norse Airlines">Norse Airlines</a></li>
-               <li><a href="Qantas Airways">Qantas Airways</a></li>
-               <li><a href="Qatar Airways">Qatar Airways</a></li>
-               <li><a href="Southwest Airlines">Southwest Airlines</a></li>
-               <li><a href="spirit-airlines">Spirit Airlines</a></li>
-               <li><a href="virgin-atlantic-airways">Virgin Atlantic Airways</a></li>
-               <li><a href="virgin-australia">Virgin Australia</a></li>
-               <!-- <li><a href="<?= base_url() ?>flair-airlines">Flair Airlines</a></li>
-               <li><a href="<?= base_url() ?>frontier-airlines">Frontier Airlines</a></li>
-               <li><a href="<?= base_url() ?>aeromexico-airlines">Aeromexico Airlines</a></li> -->
-               <li><a href="air-new-zealand">Air New Zealand</a></li>
-               <li><a href="all-nippon-airways">All Nippon Airways</a></li>
-               <li><a href="cathay-pacific-airways">Cathay Pacific Airways</a></li>
-               <li><a href="copa-airlines">Copa Airlines</a></li>
-               <li><a href="etihad-airlines">Etihad Airlines</a></li>
-               <li><a href="latam-airlines">Latam Airlines</a></li>
-               <li><a href="philippine-airlines">Philadelphia Airlines</a></li>
-               <li><a href="singapore-airlines">Singapore Airlines</a></li>
-               <li><a href="turkish-airlines">Turkish Airlines</a></li>
-               <li><a href="volaris">volaris</a></li>
-               
+         
+            <li><a href="<?= base_url() ?>aeromexico-airlines">Aeromexico Airlines</a></li>
+            <li><a href="<?= base_url() ?>air-canada">Air Canada</a></li>
+            <li><a href="<?= base_url() ?>air-france-airlines">Air France Airlines</a></li>
+            <li><a href="<?= base_url() ?>air-new-zealand">Air New Zealand</a></li>
+            <li><a href="<?= base_url() ?>alaska-airlines">Alaska Airlines</a></li>
+            <li><a href="<?= base_url() ?>allegiant-airlines">Allegiant Airlines</a></li>
+            <li><a href="<?= base_url() ?>all-nippon-airways">All Nippon Airways</a></li>
+            <li><a href="<?= base_url() ?>asiana-airlines">Asiana Airlines</a></li>
+            <li><a href="<?= base_url() ?>british-airways">British Airways</a></li>
+            <li><a href="<?= base_url() ?>canadian-north">Canadian North</a></li>
+            <li><a href="<?= base_url() ?>cathay-pacific-airways">Cathay Pacific Airways</a></li>
+            <li><a href="<?= base_url() ?>central-mountain-air">Central Mountain Air</a></li>
+            <li><a href="<?= base_url() ?>copa-airlines">Copa Airlines</a></li>
+            <li><a href="<?= base_url() ?>emirates-airlines">Emirates Airlines</a></li>
+            <li><a href="<?= base_url() ?>etihad-airlines">Etihad Airlines</a></li>
+            <li><a href="<?= base_url() ?>hawaiian-airlines">Hawaiian Airlines</a></li>
+            <li><a href="<?= base_url() ?>japan-airlines">Japan Airlines</a></li>
+            <li><a href="<?= base_url() ?>jetblue-airways">JetBlue Airways</a></li>
+            <li><a href="<?= base_url() ?>latam-airlines">LATAM Airlines</a></li>
+            <li><a href="<?= base_url() ?>lufthansa-airlines">Lufthansa Airlines</a></li>
+            <li><a href="<?= base_url() ?>norse-airlines">Norse Airlines</a></li>
+            <li><a href="<?= base_url() ?>philippine-airlines">Philippine Airlines</a></li>
+            <li><a href="<?= base_url() ?>qantas-airways">Qantas Airways</a></li>
+            <li><a href="<?= base_url() ?>qatar-airways">Qatar Airways</a></li>
+            <li><a href="<?= base_url() ?>singapore-airlines">Singapore Airlines</a></li>
+            <li><a href="<?= base_url() ?>southwest-airlines">Southwest Airlines</a></li>
+            <li><a href="<?= base_url() ?>spirit-airlines">Spirit Airlines</a></li>
+            <li><a href="<?= base_url() ?>turkish-airlines">Turkish Airlines</a></li>
+            <li><a href="<?= base_url() ?>virgin-atlantic-airways">Virgin Atlantic Airways</a></li>
+            <li><a href="<?= base_url() ?>virgin-australia">Virgin Australia</a></li>
+            <li><a href="<?= base_url() ?>volaris">Volaris</a></li>
             </ul>
-
-
-            
          </div>
          <div class="ftr-sl border rounded p-3 mb-3 d-none">
             <h5 class="ul-head">Destination</h5>
