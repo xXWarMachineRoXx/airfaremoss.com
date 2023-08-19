@@ -135,6 +135,16 @@ $route['virgin-atlantic-airways'] = 'MainController/virgin_atlantic_airways';
 $route['virgin-australia'] = 'MainController/virgin_australia';
 $route['japan-airlines'] = 'MainController/japan_airlines';
 $route['asiana-airlines'] = 'MainController/asiana_airlines';
+$route['all-nippon-airways'] = 'MainController/all_nippon_airways';
+$route['cathay-pacific-airways'] = 'MainController/cathay_pacific_airways';
+$route['copa-airlines'] = 'MainController/copa_airlines';
+$route['etihad-airlines'] = 'MainController/etihad_airlines';
+$route['latam-airlines'] = 'MainController/latam_airlines';
+$route['philippine-airlines'] = 'MainController/philippine_airlines';
+$route['singapore-airlines'] = 'MainController/singapore_airlines';
+$route['turkish-airlines'] = 'MainController/turkish_airlines';
+$route['volaris'] = 'MainController/volaris';
+$route['air-new-zealand'] = 'MainController/air_new_zealand';
 
 
 $route['central-mountain-air']='MainController/central_mountain_air';

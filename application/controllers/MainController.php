@@ -451,6 +451,76 @@ public function business_cls_reservation()
         $this->load->view("aeromexico-airlines");
         $this->load->view("includes/front_footer");
     }
+    public function volaris()
+    {
+        $data = get_data("volaris.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("volaris");
+        $this->load->view("includes/front_footer");
+    }  
+      public function turkish_airlines()
+    {
+        $data = get_data("turkish-airlines.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("turkish-airlines");
+        $this->load->view("includes/front_footer");
+    }   
+     public function singapore_airlines()
+    {
+        $data = get_data("singapore-airlines.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("singapore-airlines");
+        $this->load->view("includes/front_footer");
+    }   
+     public function philippine_airlines()
+    {
+        $data = get_data("philippine-airlines.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("philippine-airlines");
+        $this->load->view("includes/front_footer");
+    }   
+     public function latam_airlines()
+    {
+        $data = get_data("latam-airlines.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("latam-airlines");
+        $this->load->view("includes/front_footer");
+    }   
+     public function etihad_airlines()
+    {
+        $data = get_data("etihad-airlines.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("etihad-airlines");
+        $this->load->view("includes/front_footer");
+    }    
+    public function copa_airlines()
+    {
+        $data = get_data("copa-airlines.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("copa-airlines");
+        $this->load->view("includes/front_footer");
+    }    
+    public function cathay_pacific_airways()
+    {
+        $data = get_data("cathay-pacific-airways.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("cathay-pacific-airways");
+        $this->load->view("includes/front_footer");
+    }   
+     public function all_nippon_airways()
+    {
+        $data = get_data("all-nippon-airways.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("all-nippon-airways");
+        $this->load->view("includes/front_footer");
+    }   
+     public function air_new_zealand()
+    {
+        $data = get_data("air-new-zealand.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("air-new-zealand");
+        $this->load->view("includes/front_footer");
+    }
     
     public function flair_airlines()
     {
