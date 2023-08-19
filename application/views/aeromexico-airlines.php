@@ -170,10 +170,6 @@ define('FROM_LOCATION_CODE', 'MEX');
                      </a>
                   </div>
                </div>
-               <!-- Inserted City 5 -->
-               <!-- ... -->
-               <!-- Inserted City 6 -->
-               <!-- ... -->
             </div>
          </div>
          <div class="col-md-4 col-12">
