@@ -3,7 +3,7 @@ document.title = "Book Cheap Flight Ticket on Qatar Airways | Get Cheap Flight D
 document.getElementsByTagName('meta')["keywords"].content = "";       
 document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Airfaremoss. Get the best fairs With US - call us @ <?= TFN ?>";   
 </script>
-   <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/Qatar-air.png'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
+   <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/qatar-airways.jpg'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
  <?php include 'includes/api-banner.php'; ?>  
 </div>
 <div class="whysky mb-4 mb-md-5">

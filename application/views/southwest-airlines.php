@@ -3,7 +3,7 @@ document.title = "Book Cheap Flight Ticket on Southwest Tickets Booking - <?= WE
 document.getElementsByTagName('meta')["keywords"].content = "discounted flight Tickets, Online Flight Booking Service, Southwest Flight at lowest price";       
 document.getElementsByTagName('meta')["description"].content = "Don't miss out on our discounted flight prices! Book now and experience the joy of travel without the high cost.";   
 </script>
-   <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/flightflybg.jpg'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
+   <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/southwest-airlines.jpg'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
  <?php include 'includes/api-banner.php'; ?>  
 </div>
 <div class="whysky mb-4 mb-md-5">
