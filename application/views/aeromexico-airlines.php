@@ -3,6 +3,24 @@ defined('BASEPATH') or exit('No direct script access allowed');
 define('Airline', 'AirMexico Airlines');
 define('FROM_LOCATION', 'Mexico City');
 define('FROM_LOCATION_CODE', 'MEX');
+
+
+// Get the current year, month, and day
+$currentYear = date('Y');
+$currentMonth = date('m');
+$currentDay = date('d');
+
+// Calculate the middle day of the month
+$middleDay = ceil(cal_days_in_month(CAL_GREGORIAN, $currentMonth, $currentYear) / 2);
+
+if ($currentDay <= $middleDay) {
+    // Define the OfferDateRange for the first half of the month
+    define('OfferDateRange', date('d M', strtotime("$currentYear-$currentMonth-01")) . " - " . date('d M', strtotime("$currentYear-$currentMonth-$middleDay")));
+} else {
+    // Define the OfferDateRange for the second half of the month
+    define('OfferDateRange', date('d M', strtotime("$currentYear-$currentMonth-" . ($middleDay + 1))) . " - " . date('d M', strtotime("$currentYear-$currentMonth-" . cal_days_in_month(CAL_GREGORIAN, $currentMonth, $currentYear))));
+}
+
 ?>
 <script>
    document.title = "Book Cheap Flight Ticket on <?= Airline ?> | Get Cheap Flight Deal <?= Airline ?> - Airfaremoss";
@@ -10,7 +28,7 @@ define('FROM_LOCATION_CODE', 'MEX');
    document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Airfaremoss. Get the best fairs With US - call us @ <a href='tel:<?= TFN ?>";'><?= TFN ?></a>    
 </script>
 <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"
-   style="background-image: url('frontend/images/aeromexico.png'); background-postion: 5px; background-size: cover;">
+   style="background-image: url('frontend/images/aeromexico.jpg'); background-postion: 5px; background-size: cover;">
    <?php include 'includes/api-banner.php'; ?>
 </div>
 <div class="whysky mb-4 mb-md-5">
