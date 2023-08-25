@@ -37,9 +37,11 @@
                <li><a href="<?= base_url() ?>emirates-airlines">Emirates Airlines</a></li>
                <li><a href="<?= base_url() ?>etihad-airlines">Etihad Airlines</a></li>
                <li><a href="<?= base_url() ?>hawaiian-airlines">Hawaiian Airlines</a></li>
+               <li><a href="<?= base_url() ?>iberia-airline">Iberia Airlines</a></li>
                <li><a href="<?= base_url() ?>japan-airlines">Japan Airlines</a></li>
                <li><a href="<?= base_url() ?>jetblue-airways">JetBlue Airways</a></li>
                <li><a href="<?= base_url() ?>latam-airlines">LATAM Airlines</a></li>
+               <li><a href="<?= base_url() ?>lot-polish-airlines">LOT Polish Airlines</a></li>
                <li><a href="<?= base_url() ?>lufthansa-airlines">Lufthansa Airlines</a></li>
                <li><a href="<?= base_url() ?>norse-airlines">Norse Airlines</a></li>
                <li><a href="<?= base_url() ?>philippine-airlines">Philippine Airlines</a></li>

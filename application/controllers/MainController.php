@@ -486,6 +486,21 @@ public function business_cls_reservation()
         $this->load->view("latam-airlines");
         $this->load->view("includes/front_footer");
     }   
+    public function iberia_airline()
+    {
+        $data = get_data("iberia-airline.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("iberia-airline");
+        $this->load->view("includes/front_footer");
+    }   
+    public function lot_polish_airlines()
+    {
+        $data = get_data("lot-polish-airlines.php")[0];
+        $this->load->view("includes/front_header", compact("data"));
+        $this->load->view("lot-polish-airlines");
+        $this->load->view("includes/front_footer");
+    }   
+
      public function etihad_airlines()
     {
         $data = get_data("etihad-airlines.php")[0];
