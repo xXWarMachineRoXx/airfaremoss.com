@@ -24,9 +24,26 @@ defined('EMAIL_SER') or define('EMAIL_SER', "support@airfaremoss.com");
 defined('EMAIL_CON') or define('EMAIL_CON', "support@airfaremoss.com");
 defined('ADDRESS') or define('ADDRESS', "117 Windwoods Drive, Collegeville PA 19426");
 
+
+// Get the current year, month, and day
+$currentYear = date('Y');
+$currentMonth = date('m');
+$currentDay = date('d');
+
+// Calculate the middle day of the month
+$middleDay = ceil(cal_days_in_month(CAL_GREGORIAN, $currentMonth, $currentYear) / 2);
+
+if ($currentDay <= $middleDay) {
+    // Define the OfferDateRange for the first half of the month
+    define('OfferDateRange', date('d M', strtotime("$currentYear-$currentMonth-01")) . " - " . date('d M', strtotime("$currentYear-$currentMonth-$middleDay")));
+} else {
+    // Define the OfferDateRange for the second half of the month
+    define('OfferDateRange', date('d M', strtotime("$currentYear-$currentMonth-" . ($middleDay + 1))) . " - " . date('d M', strtotime("$currentYear-$currentMonth-" . cal_days_in_month(CAL_GREGORIAN, $currentMonth, $currentYear))));
+}
+
 defined('D_DATE') or define('D_DATE', "2023-06-15");
 defined('R_DATE') or define('R_DATE', "2023-07-30");
-defined('DR_DATE') or define('DR_DATE', "Jun 15 - Jul 30");
+defined('DR_DATE') or define('DR_DATE', OfferDateRange);
 
 
 

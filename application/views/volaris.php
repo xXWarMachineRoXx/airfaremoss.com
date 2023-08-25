@@ -54,7 +54,7 @@ if ($currentDay <= $middleDay) {
                                  <span>New York to Porto</span>
                                  <hr>
                                  <span>
-                                    <?= DR_DATE ?>
+                                    <?= OfferDateRange ?>
                                  </span>
                               </div>
                            </div>
@@ -77,7 +77,7 @@ if ($currentDay <= $middleDay) {
                                  <span>Nassau to Tampa</span>
                                  <hr>
                                  <span>
-                                    <?= DR_DATE ?>
+                                    <?= OfferDateRange ?>
                                  </span>
                               </div>
                            </div>
@@ -100,7 +100,7 @@ if ($currentDay <= $middleDay) {
                                  <span>London to Dublin</span>
                                  <hr>
                                  <span>
-                                    <?= DR_DATE ?>
+                                    <?= OfferDateRange ?>
                                  </span>
                               </div>
                            </div>
@@ -123,7 +123,7 @@ if ($currentDay <= $middleDay) {
                                  <span>Miami to Lisbon</span>
                                  <hr>
                                  <span>
-                                    <?= DR_DATE ?>
+                                    <?= OfferDateRange ?>
                                  </span>
                               </div>
                            </div>
@@ -146,7 +146,7 @@ if ($currentDay <= $middleDay) {
                                  <span>London to Tel Aviv Yafo</span>
                                  <hr>
                                  <span>
-                                    <?= DR_DATE ?>
+                                    <?= OfferDateRange ?>
                                  </span>
                               </div>
                            </div>
@@ -169,7 +169,7 @@ if ($currentDay <= $middleDay) {
                                  <span>Dublin to Tampa</span>
                                  <hr>
                                  <span>
-                                    <?= DR_DATE ?>
+                                    <?= OfferDateRange ?>
                                  </span>
                               </div>
                            </div>

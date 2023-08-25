@@ -3,6 +3,22 @@ defined('BASEPATH') or exit('No direct script access allowed');
 define('Airline', 'LOT Polish Airlines');
 
 
+// Get the current year, month, and day
+$currentYear = date('Y');
+$currentMonth = date('m');
+$currentDay = date('d');
+
+// Calculate the middle day of the month
+$middleDay = ceil(cal_days_in_month(CAL_GREGORIAN, $currentMonth, $currentYear) / 2);
+
+if ($currentDay <= $middleDay) {
+    // Define the OfferDateRange for the first half of the month
+    define('OfferDateRange', date('d M', strtotime("$currentYear-$currentMonth-01")) . " - " . date('d M', strtotime("$currentYear-$currentMonth-$middleDay")));
+} else {
+    // Define the OfferDateRange for the second half of the month
+    define('OfferDateRange', date('d M', strtotime("$currentYear-$currentMonth-" . ($middleDay + 1))) . " - " . date('d M', strtotime("$currentYear-$currentMonth-" . cal_days_in_month(CAL_GREGORIAN, $currentMonth, $currentYear))));
+}
+
 ?>
 <script>
    document.title = "Book Cheap Flight Ticket on <?= Airline ?> | Get Cheap Flight Deal <?= Airline ?> - Airfaremoss";
@@ -38,7 +54,7 @@ define('Airline', 'LOT Polish Airlines');
                                  <span>New York to Porto</span>
                                  <hr>
                                  <span>
-                                    <?= DR_DATE ?>
+                                    <?= OfferDateRange ?>
                                  </span>
                               </div>
                            </div>
@@ -61,7 +77,7 @@ define('Airline', 'LOT Polish Airlines');
                                  <span>Nassau to Tampa</span>
                                  <hr>
                                  <span>
-                                    <?= DR_DATE ?>
+                                    <?= OfferDateRange ?>
                                  </span>
                               </div>
                            </div>
@@ -84,7 +100,7 @@ define('Airline', 'LOT Polish Airlines');
                                  <span>London to Dublin</span>
                                  <hr>
                                  <span>
-                                    <?= DR_DATE ?>
+                                    <?= OfferDateRange ?>
                                  </span>
                               </div>
                            </div>
@@ -107,7 +123,7 @@ define('Airline', 'LOT Polish Airlines');
                                  <span>Miami to Lisbon</span>
                                  <hr>
                                  <span>
-                                    <?= DR_DATE ?>
+                                    <?= OfferDateRange ?>
                                  </span>
                               </div>
                            </div>
@@ -130,7 +146,7 @@ define('Airline', 'LOT Polish Airlines');
                                  <span>London to Tel Aviv Yafo</span>
                                  <hr>
                                  <span>
-                                    <?= DR_DATE ?>
+                                    <?= OfferDateRange ?>
                                  </span>
                               </div>
                            </div>
@@ -153,7 +169,7 @@ define('Airline', 'LOT Polish Airlines');
                                  <span>Dublin to Tampa</span>
                                  <hr>
                                  <span>
-                                    <?= DR_DATE ?>
+                                    <?= OfferDateRange ?>
                                  </span>
                               </div>
                            </div>
