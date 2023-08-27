@@ -5,20 +5,21 @@ define('full_name_fl', 'Atlanta');
 define('full_name_tl', 'Ft. Lauderdale');
 
 // Get the current year, month, and day
-$currentYear = date('Y');
-$currentMonth = date('m');
-$currentDay = date('d');
+// 
+$currentDate = date('Y-m-d');
 
-// Calculate the middle day of the month
-$middleDay = ceil(cal_days_in_month(CAL_GREGORIAN, $currentMonth, $currentYear) / 2);
+// Calculate the OfferDateRange for the next 7 to 14 days
+$startDate = date('d M', strtotime($currentDate . ' +7 days'));
+$endDate = date('d M', strtotime($currentDate . ' +14 days'));
 
-if ($currentDay <= $middleDay) {
-    // Define the OfferDateRange for the first half of the month
-    define('OfferDateRange', date('d M', strtotime("$currentYear-$currentMonth-01")) . " - " . date('d M', strtotime("$currentYear-$currentMonth-$middleDay")));
-} else {
-    // Define the OfferDateRange for the second half of the month
-    define('OfferDateRange', date('d M', strtotime("$currentYear-$currentMonth-" . ($middleDay + 1))) . " - " . date('d M', strtotime("$currentYear-$currentMonth-" . cal_days_in_month(CAL_GREGORIAN, $currentMonth, $currentYear))));
-}
+// Define the OfferDateRange
+define('OfferDateRange', $startDate . " - " . $endDate);
+
+defined('DR_DATE') or define('DR_DATE', OFFER_DATE_RANGE);
+
+defined('D_DATE') or define('D_DATE', "2023-06-15");
+defined('R_DATE') or define('R_DATE', "2023-07-30");
+
 
 ?>
 
@@ -41,6 +42,12 @@ if ($currentDay <= $middleDay) {
       <div class="row g-3">
          <div class="col-md-8 col-12 fdl mt-5">
             <div class="row g-3">
+            <div class="headingtxt hdadjt text-center">
+         <div class="headh3 txt-ff fw-bold">
+         <?= full_name_fl ?> to
+         <?= full_name_tl ?>
+         </div>
+      </div>
                <div class="col-md-12 col-12">
                   <div class="flight-status fs-indx bxd">
                      <a title="Flight From <?= full_name_fl ?> to <?= full_name_tl ?>"
