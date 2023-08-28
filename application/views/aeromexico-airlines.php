@@ -57,7 +57,7 @@ if ($currentDay <= $middleDay) {
                                  <span>Mexico City to Tuxtla Gutierrez</span>
                                  <hr>
                                  <span>
-                                    18/09/2023 - 03/10/2023
+                                    <?=OFFER_DATE_RANGE?>
                                  </span>
                               </div>
                            </div>
@@ -81,7 +81,7 @@ if ($currentDay <= $middleDay) {
                                  <span>Mexico City to Tijuana</span>
                                  <hr>
                                  <span>
-                                    20/10/2023 - 23/10/2023
+                                    <?=OFFER_DATE_RANGE?>
                                  </span>
                               </div>
                            </div>
@@ -105,7 +105,7 @@ if ($currentDay <= $middleDay) {
                                  <span>Mexico City to Puerto Escondido</span>
                                  <hr>
                                  <span>
-                                    24/10/2023 - 27/10/2023
+                                    <?=OFFER_DATE_RANGE?>
                                  </span>
                               </div>
                            </div>
@@ -129,7 +129,7 @@ if ($currentDay <= $middleDay) {
                                  <span>Mexico City to Torreon</span>
                                  <hr>
                                  <span>
-                                    20/10/2023 - 23/10/2023
+                                    <?=OFFER_DATE_RANGE?>
                                  </span>
                               </div>
                            </div>
@@ -152,7 +152,7 @@ if ($currentDay <= $middleDay) {
                                  <span>Mexico City to Cancun</span>
                                  <hr>
                                  <span>
-                                    28/08/2023 - 30/08/2023
+                                    <?=OFFER_DATE_RANGE?>
                                  </span>
                               </div>
                            </div>
@@ -176,7 +176,7 @@ if ($currentDay <= $middleDay) {
                                  <span>Mexico City to Guadalajara</span>
                                  <hr>
                                  <span>
-                                    30/08/2023 - 02/09/2023
+                                    <?=OFFER_DATE_RANGE?>
                                  </span>
                               </div>
                            </div>
